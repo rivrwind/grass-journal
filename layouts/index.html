@@ -1,0 +1,11 @@
+{{ define "main" }}
+    <div id="home-center">
+
+        {{- with .Site.Params.social }}
+            <div id="home-social">
+                {{ partialCached "social-icons.html" . }}
+            </div>
+        {{- end }}
+{{.Content}}
+    </div>
+{{ end }}
