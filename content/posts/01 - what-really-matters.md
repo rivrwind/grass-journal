@@ -6,64 +6,62 @@ toc: false
 cover: matters-rocks.jpg
 tags:
   - untagged
+
 ---
 
-{{% image src="/img/apples.jpg" position="center" style="border-radius: 8px" %}}
+*"Is there something you want badly?" he asked.*
 
+*And she replied almost greedily, gasping for breath: "Yes"— and burst into a storm of weeping.*
 
-> *"Is there something you want badly?" he asked.*
->
-> *And she replied almost greedily, gasping for breath: "Yes"— and burst into a storm of weeping.*
->
-> *"What?" he asked.*
->
-> *"I don't know," she wept in despair.*
->
-> *"You needn't be afraid of telling me, Sola dear. Maybe I can get it for you when I grow up."*
->
-> *"You wouldn't understand. You're so little. No one understands. I don't even understand it myself—day and night."*
->
-> *"Is it because of the way you're made?" he asked, full of sympathy and conscious that the discussion was verging now upon the most intimate secrets of the human body, which it is otherwise customary never to mention — possibly it was wrong of him, but the words had slipped his tongue before he realized.*
->
-> *"Yes," she sighed after a little reflection, disconsolately.*
->
-> *"It doesn't matter, Sola dear," he whispered then, and patted her cheek, determined to console her. "There's no need to find out. I won't tell anyone. I shall ask Gvendur not to tell anyone."*
->
-> *"So you know, then?" she asked, taking the cloth away from her eyes and looking him straight in the eyes "— you know?"*
->
-> *"No, Sola dear, I know nothing. I've never had a look; it doesn't matter. And anyway nobody can help it. And when I'm a big man, maybe I'll build a house in another country and then you can come and live with me and eat potatoes —"*
->
-> *"Potatoes? What do I want with potatoes?"*
->
-> *"Like it says in the Bible stories," he explained.*
->
-> *"There aren't any potatoes in the Bible stories."*
->
-> *"I mean what the woman ate in the Bible stories," he said.*
->
-> *"I don't want anything in the Bible stories," she said, gazing into space with tear-swollen eyes. "God is an enemy of the soul."*
->
-> *Then suddenly he asked: "What did you wish for in the winter, Sola, when the teacher gave us all a wish?"*
->
-> *First she looked at him searchingly, and the squint in her eyes seemed more pronounced than ever, because of her weeping; then her lids fell and she began uprooting grass from the sward. "You mustn't tell anyone," she said.*
->
-> *"No, I shall never tell anyone. What was it, then?"*
->
-> *"It was love," she said, and then once more her weeping burst its bonds, and again and again she repeated from the midst of her sobbing: "Love, love, love."*
->
-> *"How do you mean?" he asked.*
->
-> *She threw herself in a heap on the ground again, her shoulders shaking with sobs as they had done when he came up to her a few moments ago, and she wailed:*
->
-> *"I wish I could die. Die. Die."*
->
-> *He did not know what to say in the face of such sorrow. He sat in silence by his sister's side in the spring verdure, which was too young; and the hidden strings in his breast begin to quiver, and to sound.*
->
-> *This was the first time he had ever looked into the labyrinth of the human soul. He was very far from understanding what he saw. But what was of more value, he felt and suffered with her. In years that were yet to come he relieved this memory in song, in the most beautiful song the world has known. For understanding the soul's defencelessness, of the conflict between the two poles, is not the source of the greatest song. The source of the greatest song is sympathy. Sympathy with Asta Sollilja on earth.*
->
-> — Independent People
+*"What?" he asked.*
 
-##  
+"I don't know," she wept in despair.*
+
+"You needn't be afraid of telling me, Sola dear. Maybe I can get it for you when I grow up."*
+
+"You wouldn't understand. You're so little. No one understands. I don't even understand it myself—day and night."*
+
+"Is it because of the way you're made?" he asked, full of sympathy and conscious that the discussion was verging now upon the most intimate secrets of the human body, which it is otherwise customary never to mention — possibly it was wrong of him, but the words had slipped his tongue before he realized.*
+
+"Yes," she sighed after a little reflection, disconsolately.*
+
+"It doesn't matter, Sola dear," he whispered then, and patted her cheek, determined to console her. "There's no need to find out. I won't tell anyone. I shall ask Gvendur not to tell anyone."*
+
+ *"So you know, then?" she asked, taking the cloth away from her eyes and looking him straight in the eyes "— you know?"*
+
+ *"No, Sola dear, I know nothing. I've never had a look; it doesn't matter. And anyway nobody can help it. And when I'm a big man, maybe I'll build a house in another country and then you can come and live with me and eat potatoes —"*
+
+ *"Potatoes? What do I want with potatoes?"*
+
+ *"Like it says in the Bible stories," he explained.*
+
+ *"There aren't any potatoes in the Bible stories."*
+
+ *"I mean what the woman ate in the Bible stories," he said.*
+
+ *"I don't want anything in the Bible stories," she said, gazing into space with tear-swollen eyes. "God is an enemy of the soul."*
+
+ *Then suddenly he asked: "What did you wish for in the winter, Sola, when the teacher gave us all a wish?"*
+
+ *First she looked at him searchingly, and the squint in her eyes seemed more pronounced than ever, because of her weeping; then her lids fell and she began uprooting grass from the sward. "You mustn't tell anyone," she said.*
+
+ *"No, I shall never tell anyone. What was it, then?"*
+
+ *"It was love," she said, and then once more her weeping burst its bonds, and again and again she repeated from the midst of her sobbing: "Love, love, love."*
+
+ *"How do you mean?" he asked.*
+
+ *She threw herself in a heap on the ground again, her shoulders shaking with sobs as they had done when he came up to her a few moments ago, and she wailed:*
+
+ *"I wish I could die. Die. Die."*
+
+ *He did not know what to say in the face of such sorrow. He sat in silence by his sister's side in the spring verdure, which was too young; and the hidden strings in his breast begin to quiver, and to sound.*
+
+ *This was the first time he had ever looked into the labyrinth of the human soul. He was very far from understanding what he saw. But what was of more value, he felt and suffered with her. In years that were yet to come he relieved this memory in song, in the most beautiful song the world has known. For understanding the soul's defencelessness, of the conflict between the two poles, is not the source of the greatest song. The source of the greatest song is sympathy. Sympathy with Asta Sollilja on earth.*
+
+ — Independent People
+
+{{% image src="/img/apples.jpg" position="center" style="border-radius: 8px" %}} 
 
 As I drove south through the storm, the lights of Taos slowly flickered in and out on the horizon. The snow coated the road, and driving was slow. The jeep had turned off, and I was alone. It was the hour of reflection. There was nothing to do but drive slowly, watching the road, careful with traction, looking for the edges so as not to get stuck in my little four door sedan. It lent a measure of tension to the reflections that passed through my mind.
 
