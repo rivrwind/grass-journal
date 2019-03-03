@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/posts/02-just-thoughts/</loc>
+    <lastmod>2019-03-03T12:05:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/posts/01-what-really-matters/</loc>
+    <lastmod>2019-03-02T11:46:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/grass/</loc>
+    <lastmod>2019-03-01T22:53:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/who/</loc>
+    <lastmod>2019-03-01T22:53:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/</loc>
+    <lastmod>2019-03-01T22:46:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/posts/</loc>
+    <lastmod>2019-03-03T12:05:29-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/tags/untagged/</loc>
+    <lastmod>2019-03-03T12:05:29-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

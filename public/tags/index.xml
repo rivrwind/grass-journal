@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Grass Journal</title>
+    <link>https://grassjournal.surge.sh/tags/</link>
+    <description>Recent content in Tags on Grass Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://grassjournal.surge.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Untagged</title>
+      <link>https://grassjournal.surge.sh/tags/untagged/</link>
+      <pubDate>Sun, 03 Mar 2019 12:05:29 -0700</pubDate>
+      
+      <guid>https://grassjournal.surge.sh/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

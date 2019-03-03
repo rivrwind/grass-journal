@@ -3,7 +3,7 @@ title: "What Really Matters"
 date: 2019-03-02T11:46:50-07:00
 draft: false
 toc: false
-cover: matters-rocks.jpg
+cover: rocks.jpg
 tags:
   - untagged
 
@@ -15,17 +15,17 @@ tags:
 
 *"What?" he asked.*
 
-"I don't know," she wept in despair.*
+*"I don't know," she wept in despair.*
 
-"You needn't be afraid of telling me, Sola dear. Maybe I can get it for you when I grow up."*
+*"You needn't be afraid of telling me, Sola dear. Maybe I can get it for you when I grow up."*
 
-"You wouldn't understand. You're so little. No one understands. I don't even understand it myself—day and night."*
+*"You wouldn't understand. You're so little. No one understands. I don't even understand it myself—day and night."*
 
-"Is it because of the way you're made?" he asked, full of sympathy and conscious that the discussion was verging now upon the most intimate secrets of the human body, which it is otherwise customary never to mention — possibly it was wrong of him, but the words had slipped his tongue before he realized.*
+*"Is it because of the way you're made?" he asked, full of sympathy and conscious that the discussion was verging now upon the most intimate secrets of the human body, which it is otherwise customary never to mention — possibly it was wrong of him, but the words had slipped his tongue before he realized.*
 
-"Yes," she sighed after a little reflection, disconsolately.*
+*"Yes," she sighed after a little reflection, disconsolately.*
 
-"It doesn't matter, Sola dear," he whispered then, and patted her cheek, determined to console her. "There's no need to find out. I won't tell anyone. I shall ask Gvendur not to tell anyone."*
+*"It doesn't matter, Sola dear," he whispered then, and patted her cheek, determined to console her. "There's no need to find out. I won't tell anyone. I shall ask Gvendur not to tell anyone."*
 
  *"So you know, then?" she asked, taking the cloth away from her eyes and looking him straight in the eyes "— you know?"*
 
@@ -61,7 +61,7 @@ tags:
 
  — Independent People
 
-{{% image src="/img/apples.jpg" position="center" style="border-radius: 8px" %}} 
+![](/img/apples.jpg)
 
 As I drove south through the storm, the lights of Taos slowly flickered in and out on the horizon. The snow coated the road, and driving was slow. The jeep had turned off, and I was alone. It was the hour of reflection. There was nothing to do but drive slowly, watching the road, careful with traction, looking for the edges so as not to get stuck in my little four door sedan. It lent a measure of tension to the reflections that passed through my mind.
 

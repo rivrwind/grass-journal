@@ -1,11 +1,13 @@
 ---
-title: "Test"
-date: 2019-03-01T21:47:53-07:00
+title: "Just Thoughts"
+date: 2019-03-03T12:05:29-07:00
 draft: false
+toc: false
 comments: true
+cover:
+tags:
+  - untagged
 ---
-
-{{% image src="/rocks.jpg" %}}
 
 This is my first idea to write anything—  
 anything written has already been wrote.  

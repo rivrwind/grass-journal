@@ -1,10 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+author: "Hudson Gardner"
+date: "{{ now.Format "January 2, 2006 — 15:04PM" }}"
 draft: true
 toc: false
 comments: true
-images:
+cover:
 tags:
   - untagged
 ---
