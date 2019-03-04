@@ -56,11 +56,7 @@ disableHugoGeneratorInject = false
     [languages.en.params.logo]
       logoText = "Home"
       logoHomeLink = "/"
-      path = ""
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+    # hardcoded logo in logo.html so text could also be present + dark mode
 
 # And you can even create generic menu
 [menu]
