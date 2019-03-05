@@ -54,9 +54,8 @@ disableHugoGeneratorInject = false
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Home"
+      logoText = "ᗣ Home"
       logoHomeLink = "/"
-    # hardcoded logo in logo.html so text could also be present + dark mode
 
 # And you can even create generic menu
 [menu]
