@@ -4,6 +4,7 @@ title   = "Grass Journal"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 images = "mountain.png"
+favicon = "favicon.ico"
 
 # googleAnalytics = ""
 # disqusShortname = ""
