@@ -41,8 +41,8 @@ body {
 
 p{
   padding: 0 10px 0 10px;
-  orphans: 5;
-  widows: 5;
+  orphans: 3;
+  widows: 3;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -86,7 +86,7 @@ h4 {
 
 a {
   color: inherit;
-  text-decoration-color: rgb(91, 189, 252);
+  text-decoration-color: rgb(252, 207, 91);
   text-decoration-style: solid;
 }
 
@@ -311,8 +311,7 @@ hr {
 	z-index: 100000;
 }
 
-/* Custom CSS */
-
+/* Allow floating of images by adding #variable to markdown*/
 img[src$='#center']
 {
     display: block;
