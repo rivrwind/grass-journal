@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://grassjournal.surge.sh/posts/about-balsamroot/</loc>
-    <lastmod>2019-03-03T16:43:21-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grassjournal.surge.sh/posts/02-just-thoughts/</loc>
-    <lastmod>2019-03-03T12:05:29-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grassjournal.surge.sh/posts/01-what-really-matters/</loc>
-    <lastmod>2019-03-02T11:46:50-07:00</lastmod>
+    <loc>https://grassjournal.surge.sh/posts/01-explaining/</loc>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
   </url>
   
   <url>
@@ -38,19 +28,32 @@
   </url>
   
   <url>
+    <loc>https://grassjournal.surge.sh/tags/existence/</loc>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.surge.sh/tags/poetry/</loc>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://grassjournal.surge.sh/posts/</loc>
-    <lastmod>2019-03-03T16:43:21-07:00</lastmod>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://grassjournal.surge.sh/tags/</loc>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://grassjournal.surge.sh/tags/untagged/</loc>
-    <lastmod>2019-03-03T16:43:21-07:00</lastmod>
+    <loc>https://grassjournal.surge.sh/tags/water/</loc>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
