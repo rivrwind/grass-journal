@@ -30,20 +30,26 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+
+# Directory name of your blog content (default is `content/posts`)
+contentTypeName = "posts"
+# Default theme "light" or "dark"
+defaultTheme = "dark"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "01-02-2006"
-  dateformNumTime = "01-02-2006 15:04 -0700"
+  dateformNumTime = "Mon, Jan 2, 2006"
 
   # Metadata mostly used in document's head
   description = "Homepage and blog by Hudson Gardner"
   keywords = "blog, buddhism, spirituality, minimalism, photography, meditation, philosophy, gardening"
   images = [""]
 
-  # Directory name of your blog content (default is `content/posts`)
   # Default theme "light" or "dark"
   defaultTheme = "light"
+
 
 [languages]
   [languages.en]
@@ -53,7 +59,7 @@ disableHugoGeneratorInject = false
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "ᗣ Home"
+      logoText = "○ Home"
       logoHomeLink = "/"
 
 # And you can even create generic menu

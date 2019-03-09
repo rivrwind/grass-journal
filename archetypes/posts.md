@@ -7,5 +7,5 @@ toc: false
 comments: true
 cover:
 tags:
-  - untagged
+typora-root-url: ../../content
 ---
