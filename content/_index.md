@@ -15,4 +15,4 @@ Practical, impractical, and somewhere in between.
 
 &nbsp;
 ### [See The Latest Posts](/posts)  
-### [Subscribe For Updates](/tinyletter)
+### [Subscribe For Updates](/subscribe)
