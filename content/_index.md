@@ -10,7 +10,7 @@ draft: false
 # Grass Journal
 </center>
 
-Grass Journal is a collection of thoughts & things-     
+Grass Journal is a collection of thoughts & things—       
 Practical, impractical, and somewhere in between.  
 
 &nbsp;
