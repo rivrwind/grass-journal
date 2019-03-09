@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grass Journal</title>
-    <link>https://grassjournal.surge.sh/</link>
+    <link>https://grassjournal.co/</link>
     <description>Recent content on Grass Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 22:46:14 -0700</lastBuildDate>
     
-	<atom:link href="https://grassjournal.surge.sh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grassjournal.co/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Way Of Explaining</title>
-      <link>https://grassjournal.surge.sh/posts/01-explaining/</link>
+      <link>https://grassjournal.co/posts/01-explaining/</link>
       <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
       
-      <guid>https://grassjournal.surge.sh/posts/01-explaining/</guid>
+      <guid>https://grassjournal.co/posts/01-explaining/</guid>
       <description>The whole problem of existence
 is that we are are like a river, but not
 minds always flowing
@@ -40,10 +40,10 @@ My first idea to write anything—</description>
     
     <item>
       <title></title>
-      <link>https://grassjournal.surge.sh/grass/</link>
+      <link>https://grassjournal.co/grass/</link>
       <pubDate>Fri, 01 Mar 2019 22:53:17 -0700</pubDate>
       
-      <guid>https://grassjournal.surge.sh/grass/</guid>
+      <guid>https://grassjournal.co/grass/</guid>
       <description>&amp;nbsp;  Sitting quietly,
 doing nothing—
 spring comes;
@@ -59,10 +59,10 @@ Thoughts that many think, but don’t know how to talk about them.</description>
     
     <item>
       <title></title>
-      <link>https://grassjournal.surge.sh/who/</link>
+      <link>https://grassjournal.co/who/</link>
       <pubDate>Fri, 01 Mar 2019 22:53:17 -0700</pubDate>
       
-      <guid>https://grassjournal.surge.sh/who/</guid>
+      <guid>https://grassjournal.co/who/</guid>
       <description>&amp;nbsp; 
 Hudson Gardner &amp;hellip; is fond of writing, walking, coding, and reading.
 As of March 2019 he is finishing his first full-length

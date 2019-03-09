@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Grass Journal</title>
-        <link>https://grassjournal.surge.sh/posts/</link>
+        <link>https://grassjournal.co/posts/</link>
         <description>Recent content in Posts on Grass Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 08 Mar 2019 13:12:05 -0700</lastBuildDate>
-        <atom:link href="https://grassjournal.surge.sh/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://grassjournal.co/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>My Way Of Explaining</title>
-            <link>https://grassjournal.surge.sh/posts/01-explaining/</link>
+            <link>https://grassjournal.co/posts/01-explaining/</link>
             <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
             
-            <guid>https://grassjournal.surge.sh/posts/01-explaining/</guid>
+            <guid>https://grassjournal.co/posts/01-explaining/</guid>
             <description>The whole problem of existence
 is that we are are like a river, but not
 minds always flowing
