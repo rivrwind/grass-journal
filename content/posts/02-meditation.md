@@ -1,11 +1,12 @@
 ---
 title: "A Story About a Meditation Retreat, #1"
+slug: "Meditation-01"
 author: "Hudson Gardner"
 date: "2019-03-01T08:02:30"
-draft: true
+draft: false
 toc: false
 comments: true
-cover: /19.3-mountains.jpg
+cover: /19.2-mountains.jpg
 tags:
 typora-root-url: ../../content
 ---

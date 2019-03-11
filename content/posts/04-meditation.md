@@ -1,11 +1,12 @@
 ---
-title: "A Story About A Meditation Retreat #3"
+title: "A Story About A Meditation Retreat, #3"
+slug: "Meditation-03"
 author: "Hudson Gardner"
 date: "2019-03-03T08:02:30"
-draft: true
+draft: false
 toc: false
 comments: true
-cover:
+cover: 19.3-rocks.jpg
 tags:
 typora-root-url: ../../content
 ---
@@ -60,9 +61,9 @@ typora-root-url: ../../content
 
  *This was the first time he had ever looked into the labyrinth of the human soul. He was very far from understanding what he saw. But what was of more value, he felt and suffered with her. In years that were yet to come he relieved this memory in song, in the most beautiful song the world has known. For understanding the soul's defencelessness, of the conflict between the two poles, is not the source of the greatest song. The source of the greatest song is sympathy. Sympathy with Asta Sollilja on earth.*
 
- — Independent People
+**— Independent People**
 
-![](/img/apples.jpg)
+![wallowa-oregon](/img/19.3-tent.jpg)
 
 As I drove south through the storm, the lights of Taos flickered in and out on the horizon. The snow coated the road, and driving was slow. The jeep had turned off, and I was alone. It was the hour of reflection. There was nothing to do but drive slowly, watching the road, careful with traction, looking for the edges so as not to get stuck in my little four door sedan. It lent a measure of tension to the reflections that passed through my mind.
 
@@ -80,6 +81,6 @@ The writing came out as poems, instead of prose. It broke down into lines of sim
 
 It's strange how the idea of quitting an attempt to understand something can, to me, seem almost as absurd as ever answering the question itself. And I guess that's where I leave it.
 
-~~
+------
 
 As I slid into town the snow thickened, falling like flour under the orange streetlights on Paseo del Pueblo Sur. Cars had gone off the road, I counted six. The hill past the plaza was sloppy, and I turned into the curb to prevent sliding into an intersection. Everyone else was driving around gingerly, the whole world coated in pure, beautiful new snow.

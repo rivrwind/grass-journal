@@ -1,8 +1,9 @@
 ---
-title: "A Story About A Meditation Retreat #2"
+title: "A Story About A Meditation Retreat, #2"
+slug: "Meditation-02"
 author: "Hudson Gardner"
 date: "2019-03-02T08:02:30"
-draft: true
+draft: false
 toc: false
 comments: true
 cover:
@@ -24,4 +25,4 @@ She led me higher and higher, back and forth across the icy stream, across roads
 
 When I arrived back at the car, I noticed that she had followed me all the way back. She stood at the edge of the trees, looking towards me, but not coming any closer. She had a collar, and a home—she didn’t really “need” me. But like anyone, I guess she had found walking with someone more enjoyable than going around alone. And I guess this is what I needed too—companionship, love, and someone to look for me and to look for, as we go along this old trail together.
 
-![](/img/3.19-dog.jpg)
+![19.3-dog](/img/19.3-dog.jpg)

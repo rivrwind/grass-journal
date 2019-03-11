@@ -37,6 +37,9 @@ contentTypeName = "posts"
 # Default theme "light" or "dark"
 defaultTheme = "dark"
 
+[permalinks]
+  posts = "/:slug"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
