@@ -4,7 +4,7 @@ date: 2019-03-01T22:53:17-07:00
 draft: false
 ---
 
-![](img/grass-hut-web.png#center)  
+![](/img/grass-hut-web.png#center)  
 
 &nbsp;
 <center>
