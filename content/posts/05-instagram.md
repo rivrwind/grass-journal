@@ -2,10 +2,10 @@
 title: "Slaying The Instagram Beast"
 author: "Hudson Gardner"
 date: "2019-03-08T13:12:05-07:00"
-draft: false
+draft: true
 toc: true
 comments: true
-cover:
+cover: 19.3-instagram.jpg
 tags: [instagram, social media, influencers, environmentalism]
 typora-root-url: ../../content
 ---
@@ -22,7 +22,7 @@ These influencers nowadays would defend themselves to the end, mentioning that t
 
 **I see this kind of exploitation of natural spaces for personal gain by brands and common people as the last frontier of environmental extraction.** It's a kind of digital clearcutting. Since landscapes have already been dammed, cut, and mined, the final frontier is the exploitation of their beauty for likes and shares.
 
-About a month ago, I made comments on a variety of Instagram influencer accounts that I felt made posts of this exploitative nature. In particular, they had all recently geotagged the above mentioned wilderness area in Washington. My post was something like "Please stop using geotags in places like this for your personal instafame. They are being overrun by too much exposure." I got a variety of responses, most of them negative, with people lashing back at me for lashing out at them. I realized, and already knew, that insults were not a good way to go about educating people. I was angry, and had been for a long time, and it had finally boiled over. 
+About a month ago, I made comments on a variety of Instagram influencer accounts that I felt made posts of this exploitative nature. In particular, they had all recently geotagged the above mentioned wilderness area in Washington. My post was something like "Please stop using geotags in places like this for your personal instafame. They are being overrun by too much exposure." I got a variety of responses, most of them negative, with people lashing back at me for lashing out at them. I realized, and already knew, that insults were not a good way to go about educating people. I was angry, and had been for a long time, and it had finally boiled over.
 
 After reflecting for an afternoon, I realized I wasn't necessarily angry at those people for not examining their actions. I was angry at what Instagram has done to people, and at people's complicity.  
 
@@ -54,7 +54,7 @@ Most people would say they waste time doing things they don't want to be doing. 
 
 > *Outside, in the peon section, is the usual airport cacophony. Because we have allowed our attention to be monetized, if you want yours back you’re going to have to pay for it.*
 
-Another key idea drawn from his writing, and my own experience: Resisting impulses takes effort. 
+Another key idea drawn from his writing, and my own experience: Resisting impulses takes effort.
 
 > *What if we saw attention in the same way that we saw air or water, as a valuable resource that we hold in common? Perhaps, if we could envision an “attentional commons,” then we could figure out how to protect it.*
 
@@ -81,4 +81,3 @@ When Facebook acquired the company for $1,000,000,000 on April 9, 2012, everythi
 ## The End
 
 I have now been off Instagram for over a month. Apart from my first day off the platform, I haven't received a single message saying that someone has missed my presence there. Coming from posting almost every day, for almost five years, it makes ya think... how much value was I really adding to people's lives? How much was I receiving? What could I have been doing with that time, and energy? In the time since signing off, as I mentioned before, it seems like I could have been doing a lot. Or, maybe, less. Just enjoying the present moment with a cup of tea, a good book, and occasional glances out the window.   
-

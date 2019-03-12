@@ -6,7 +6,7 @@ date: "2019-03-01T08:02:30"
 draft: false
 toc: false
 comments: true
-cover: /19.2-mountains.jpg
+cover: 19.2-mountains.jpg
 tags:
 typora-root-url: ../../content
 ---

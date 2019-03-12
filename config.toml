@@ -31,7 +31,6 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
-
 # Directory name of your blog content (default is `content/posts`)
 contentTypeName = "posts"
 # Default theme "light" or "dark"
@@ -72,7 +71,7 @@ defaultTheme = "dark"
     identifier = "who"
     name       = "Who"
     url        = "/who"
-    weight     = "2"
+    weight     = "3"
   [[menu.main]]
     identifier = "grass"
     name       = "Grass"
@@ -82,4 +81,4 @@ defaultTheme = "dark"
     identifier = "posts"
     name       = "Posts"
     url        = "/posts"
-    weight     = "3"
+    weight     = "1"
