@@ -6,7 +6,7 @@ theme = "hello-friend-ng"
 images = "mountain.png"
 favicon = "favicon.ico"
 
-# googleAnalytics = ""
+googleAnalytics = "UA-136102762-1"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"

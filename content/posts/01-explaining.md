@@ -30,16 +30,3 @@ It’s cold, this water.
 It will wake you up.  
 This river is you, and me.  
 The water is your mind.
-
-~~
-
-My first idea to write anything—  
-anything written has already been wrote.  
-What new ideas lie  
-just outside the ideas I already have?  
-The newness of the old, oldness of the new.  
-Nothing is new or old  
-designations told past, said in a certain way  
-have no meaning.  
-The running around of everything  
-isn’t running.
