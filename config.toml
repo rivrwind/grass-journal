@@ -46,7 +46,7 @@ defaultTheme = "dark"
   dateformNumTime = "Mon, Jan 2, 2006"
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Hudson Gardner"
+  description = "Writing and photos by a wanderer"
   keywords = "blog, buddhism, spirituality, minimalism, photography, meditation, philosophy, gardening"
   images = [""]
 
