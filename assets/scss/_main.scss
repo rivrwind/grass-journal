@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Karla');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Karla|IBM+Plex+Serif');
 html {
   box-sizing: border-box;
   line-height: 1.6;
@@ -199,14 +199,12 @@ blockquote {
     padding: 10px;
   }
 
-  &:before {
-    content: '”';
-    font-family: Georgia, serif;
+/*  &:before {
+    content: '"';
+    font-family: Georgia, serif !important;
     font-size: 3.875rem;
     position: absolute;
-    left: -40px;
-    top: -20px;
-  }
+  }*/
 
   p:first-of-type {
     margin-top: 0;
