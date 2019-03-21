@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+subtitle: ""
 slug: ""
 author: "Hudson Gardner"
 date: "{{ .Date }}"

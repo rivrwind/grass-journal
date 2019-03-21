@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://grassjournal.co/spring/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/filling-the-void/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grassjournal.co/shiso-water/</loc>
     <lastmod>2019-03-12T09:26:04-06:00</lastmod>
   </url>
@@ -59,14 +69,20 @@
   </url>
   
   <url>
+    <loc>https://grassjournal.co/tags/photos/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://grassjournal.co/tags/poetry/</loc>
-    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://grassjournal.co/posts/</loc>
-    <lastmod>2019-03-12T09:26:04-06:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
