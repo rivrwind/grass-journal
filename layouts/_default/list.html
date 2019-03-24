@@ -5,26 +5,14 @@
             <div class="content">{{ .Content }}</div>
         {{- end }}
 
-<!-- recent post code  -->
-<h3>LATEST POST</h3>
-    {{ range first 1 .Pages }}
-    <article>
-      <!-- this <div> includes the title summary -->
-      <div>
-      <a href="{{ .RelPermalink}}"><img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}"></a>
-      <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-      </div>
-    </article>
+<br />
+<br />
 
-{{ end }}
-<hr>
-<br />
-<br />
+
 <h2 id="archive">Archive</h2>
         {{- range .Data.Pages.GroupByDate "2006" }}
             <div class="posts-group">
                 <div class="post-year">{{ .Key }}</div>
-
                 <ul class="posts-list">
                     {{- range .Pages }}
                         <li class="post-item">

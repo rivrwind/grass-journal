@@ -1,11 +1,11 @@
 ---
 title: "Slaying The Instagram Beast"
 author: "Hudson Gardner"
-date: "2019-03-08T13:12:05-07:00"
+date: "2019-03-21T13:12:05-07:00"
 draft: true
 toc: true
 comments: true
-cover: 19.3-instagram.jpg
+cover: 19.3-Instagram.jpg
 tags: [instagram, social media, influencers, environmentalism]
 typora-root-url: ../../content
 ---

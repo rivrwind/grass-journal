@@ -54,3 +54,8 @@ Noticing grass. You know what I mean
 By grass now
 
 .
+<hr />
+<center>
+## [View All posts](/posts)⇾
+### [Subscribe](/subscribe)
+</center>

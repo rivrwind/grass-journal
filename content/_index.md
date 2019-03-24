@@ -1,18 +1,12 @@
 ---
 title: ""
-date: 2019-03-01T22:46:14-07:00
+slug: ""
+author: "Hudson Gardner"
+date: "2019-03-23T11:37:17-06:00"
 draft: false
+comments: false
+images:
 ---
 
-# **ഛ**
-
-<center>
-# Grass Journal
-</center>
-
-Grass Journal is a collection of thoughts & things—       
-Practical, impractical, and somewhere in between.  
-
-&nbsp;
-### [See The Latest Posts](/posts)  
-### [Subscribe For Updates](/subscribe)
+# [View All posts](/posts)⇾
+## [Subscribe](/subscribe)

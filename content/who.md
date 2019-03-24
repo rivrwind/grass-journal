@@ -9,6 +9,8 @@ draft: false
 &nbsp;
 <center>
 ## Hudson Gardner
+川風  
+
 ... is fond of [writing](/posts), [walking](https://outdoorproject.com/users/hudson-gardner), [coding](https://github.com/rivrwind/), and [reading](https://www.goodreads.com/user/show/5249361-hudson-gardner).
 
 As of March 2019 he is finishing his first full-length  

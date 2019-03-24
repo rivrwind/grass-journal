@@ -15,12 +15,14 @@ typora-root-url: ../../content
 There was a gap in a leafy hedge  
 and I watched as a little bird flew in.    
 Spring rises   
-like a green mist, up from the ground  
-water is liquid, and comes back from where it was  
+like a green mist, up from the ground.  
+Water is liquid, and comes back from where it was  
 like spring does.  
 Always something coming back from something  
-a beat of a stone, two thumps—  
+the beat of a stone, two thumps—  
 the old heart again.
+
+  
 
 ![18.12.27-forest-park](/img/18.12.27-forest-park.jpg)
 

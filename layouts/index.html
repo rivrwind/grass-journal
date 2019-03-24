@@ -1,12 +1,53 @@
 {{ define "main" }}
 
-    <div id="home-center">
 
-        {{- with .Site.Params.social }}
-            <div id="home-social">
-              
-            </div>
-        {{- end }}
-{{.Content}}
-    </div>
+
+<h1 id="underline">Grass Journal</h1>
+巻草
+
+<main class="posts">
+<hr />
+
+<!-- latest post code  -->
+    {{ range first 1 .Pages }}
+
+      <!-- this <div> includes the title summary -->
+      <article>
+
+
+          {{- if .Params.toc }}
+              <hr />
+              <aside id="toc">
+              <div class="toc-title">{{ i18n "tableOfContents" }}</div>
+                  {{ .TableOfContents }}
+              </aside>
+              <hr />
+          {{- end }}
+
+          {{ with .Params.Cover }}
+              <img src="/img/{{ . }}" class="post-cover" />
+          {{ end }}
+
+          <h1 id="underline">{{ .Title | markdownify }}</h1>
+
+          <div class="post-info">
+
+            <p>{{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}{{ end }}</p>
+
+          </div>
+
+          <div class="post-content">
+
+              {{ .Content }}
+
+          </div>
+      </article>
+
+      {{ end }}
+
+      {{- if .Content }}
+          <div class="content">{{ .Content }}</div>
+      {{- end }}
+
+    </main>
 {{ end }}

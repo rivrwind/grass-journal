@@ -215,8 +215,9 @@ blockquote {
 }
 
 ul, ol {
-  margin-left: 40px;
+  margin: 0 0 0 30px;
   padding: 0;
+  list-style: circle;
 
   @media #{$media-size-phone} {
     margin-left: 20px;
@@ -340,4 +341,17 @@ a:hover{
 
 .dark-theme a:hover{
   color: rgb(228, 183, 151);
+}
+
+h1#underline{
+  text-decoration: underline;
+  text-decoration-color: rgb(252, 207, 91);
+}
+
+ul#post{
+  list-style: none;
+  margin: 0px !important;
+  display: inline-block;
+  font-size: .8rem;
+  @include dimmed;
 }

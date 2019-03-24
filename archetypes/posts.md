@@ -8,7 +8,6 @@ draft: true
 toc: false
 comments: true
 cover:
-featured_image: /img/
 tags:
 typora-root-url: ../../content
 ---
