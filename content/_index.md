@@ -8,5 +8,6 @@ comments: false
 images:
 ---
 
-# [View All posts](/posts)⇾
-## [Subscribe](/subscribe)
+---
+# [View All Posts ⇾](/posts)
+### [Subscribe](/subscribe)

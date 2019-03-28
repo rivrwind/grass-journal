@@ -1,7 +1,8 @@
 ---
 title: "Slaying The Instagram Beast"
+slug: "instagram"
 author: "Hudson Gardner"
-date: "2019-03-21T13:12:05-07:00"
+date: "2019-03-27"
 draft: true
 toc: true
 comments: true

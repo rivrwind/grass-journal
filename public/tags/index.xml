@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Grass Journal</title>
+    <link>https://grassjournal.co/tags/</link>
+    <description>Recent content in Tags on Grass Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Mar 2019 13:12:05 -0700</lastBuildDate>
+    
+	<atom:link href="https://grassjournal.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Existence</title>
+      <link>https://grassjournal.co/tags/existence/</link>
+      <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/tags/existence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://grassjournal.co/tags/photos/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>https://grassjournal.co/tags/poetry/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipe</title>
+      <link>https://grassjournal.co/tags/recipe/</link>
+      <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/tags/recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tea</title>
+      <link>https://grassjournal.co/tags/tea/</link>
+      <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/tags/tea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water</title>
+      <link>https://grassjournal.co/tags/water/</link>
+      <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/tags/water/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

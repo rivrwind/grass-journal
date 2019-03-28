@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tea on Grass Journal</title>
+    <link>https://grassjournal.co/tags/tea/</link>
+    <description>Recent content in Tea on Grass Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2019 09:26:04 -0600</lastBuildDate>
+    
+	<atom:link href="https://grassjournal.co/tags/tea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shiso Water</title>
+      <link>https://grassjournal.co/shiso-water/</link>
+      <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/shiso-water/</guid>
+      <description>Shiso Water  1-2 Shiso Leaves 1” wide slice of lemon Boiling water  I like to make this water in the morning, before eating or drinking anything. Squeeze the lemon juice into a glass, add the leaves, and pour the water over. I’m not fully convinced about the idea of alkalizing the body through diet, however I feel like a sour drink early in the morning can relieve sugar cravings, and also improve digestion through stimulating the gallbladder.</description>
+    </item>
+    
+  </channel>
+</rss>

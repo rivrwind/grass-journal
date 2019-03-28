@@ -9,7 +9,7 @@
           {{ end }}
 
 
-            <h1 class="underline"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+            <h1 id="underline">{{ .Title | markdownify }}</h1>
 
             <!-- adds subtitle to each article -->
             {{- if .Description }}

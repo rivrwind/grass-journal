@@ -19,4 +19,8 @@ book of writing — A Body of Water.
 He has a BA in Eastern Religion with a minor in Psychology.
 
 He enjoys the sacred act of doing nothing.
+
+</br />
+
+## [Contact](mailto:hudsonlgardner@gmail.com) • [Get Updates](/subscribe)
 </center>
