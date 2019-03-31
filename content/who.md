@@ -22,5 +22,5 @@ He enjoys the sacred act of doing nothing.
 
 </br />
 
-## [Contact](mailto:hudsonlgardner@gmail.com) • [Get Updates](/subscribe)
+## [Contact](mailto:hudsonlgardner@gmail.com) • [Instagram](http://instagram.com/rivrwind)
 </center>

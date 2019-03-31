@@ -30,7 +30,7 @@
 
           <div class="post-info">
 
-            <p>{{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}{{ end }}</p>
+            <p>{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}</p>
 
           </div>
 
@@ -46,6 +46,5 @@
       {{- if .Content }}
           <div class="content">{{ .Content }}</div>
       {{- end }}
-
     </main>
 {{ end }}

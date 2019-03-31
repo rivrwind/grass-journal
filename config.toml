@@ -7,7 +7,7 @@ images = "mountain.png"
 favicon = "favicon.ico"
 
 googleAnalytics = "UA-136102762-1"
-# disqusShortname = ""
+# disqusShortname = "grass-journal"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -52,6 +52,15 @@ defaultTheme = "light"
 
   # Default theme "light" or "dark"
   defaultTheme = "light"
+  # Social icons
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:hudsonlgardner@gmail.com"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/rivrwind"
 
 
 [languages]

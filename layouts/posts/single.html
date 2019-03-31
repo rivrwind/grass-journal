@@ -16,9 +16,9 @@
               <h2>{{ .Description }}</h2>
             {{- end }}
 
-            <!-- adds a timer to each article -->
+            <!-- adds a timer and date to each article -->
             <ul id="post">
-              {{ dateFormat "January 02, 2006" .Date.Local }} •  {{ i18n "readingTime" .Page.ReadingTime }}
+              {{ dateFormat "January 02, 2006" .Date.Local }} • {{ i18n "readingTime" .Page.ReadingTime }}
             </ul>
             {{- if .Params.toc }}
 

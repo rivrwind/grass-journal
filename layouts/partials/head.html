@@ -13,13 +13,13 @@
         {{ if .IsHome }}
             {{ $.Site.Title }} {{ with $.Site.Params.Subtitle }} — {{ . }} {{ end }}
         {{ else }}
-            {{ .Title }} :: {{ $.Site.Title }} {{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}
+            {{ .Title }} - {{ $.Site.Title }} {{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}
         {{ end }}
     </title>
 {{ end }}
 
 <!-- CSS -->
-<link rel="preload" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Code+Pro|Karla" rel="stylesheet" type="text/css">
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Code+Pro|Karla|Crimson+Text" rel="stylesheet" type="text/css">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet" type="text/css">
 
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
