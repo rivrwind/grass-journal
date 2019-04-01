@@ -11,10 +11,12 @@ draft: false
 ## Hudson Gardner
 川風  
 
-... is fond of [writing](/posts), [walking](https://outdoorproject.com/users/hudson-gardner), [coding](https://github.com/rivrwind/), and [reading](https://www.goodreads.com/user/show/5249361-hudson-gardner).
+... is fond of [writing](/posts), [walking](https://outdoorproject.com/users/hudson-gardner), [coding](https://github.com/rivrwind/), [reading](https://www.goodreads.com/user/show/5249361-hudson-gardner), cooking, and growing plants.
 
 As of March 2019 he is finishing his first full-length  
 book of writing — A Body of Water.
+
+He mostly makes money through his digital skills, such as photography and writing, and also by farming, which he has been doing for the last three years.
 
 He has a BA in Eastern Religion with a minor in Psychology.
 

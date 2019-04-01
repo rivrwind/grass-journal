@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://grassjournal.co/late-dinner/</loc>
+    <lastmod>2019-03-31T20:45:19-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grassjournal.co/instagram/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
@@ -110,13 +115,19 @@
   
   <url>
     <loc>https://grassjournal.co/posts/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-31T20:45:19-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://grassjournal.co/tags/recipe/</loc>
     <lastmod>2019-03-12T09:26:04-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/tags/recipe-journal/</loc>
+    <lastmod>2019-03-31T20:45:19-06:00</lastmod>
     <priority>0</priority>
   </url>
   
