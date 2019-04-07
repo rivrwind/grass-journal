@@ -10,4 +10,4 @@ images:
 
 ---
 # [View All Posts ⇾](/posts)
-### [Subscribe](/subscribe)
+### [Newsletter](/subscribe)

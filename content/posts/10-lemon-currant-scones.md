@@ -2,12 +2,11 @@
 title: "Lemon Currant Scones Of Life"
 slug: "scones"
 author: "Hudson Gardner"
-date: "2019-03-18T17:53:50-06:00"
-draft: true
+date: "2019-04-04T3:53:50-06:00"
+draft: false
 toc: false
 comments: true
 cover: 19.03-oatmeal-scones.jpg
-featured_image: /img/19.03-oatmeal-scones.jpg
 tags: [recipe]
 typora-root-url: ../../content
 ---

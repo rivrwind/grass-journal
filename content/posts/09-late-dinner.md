@@ -1,5 +1,5 @@
 ---
-title: "Late Dinner"
+title: "Late Dinner (Recipe)"
 subtitle: ""
 slug: ""
 author: "Hudson Gardner"
@@ -35,6 +35,7 @@ typora-root-url: ../../content
 # Crackly-Toasted Late Dinner Rice 😱
 
 ## Rice
+
 - **2 cups** short grain white rice  
 - **Water**, to cover rice to a depth of 1" (or consult your rice cooker instructions)
 
@@ -45,6 +46,7 @@ typora-root-url: ../../content
 - **2** thinly sliced scallions
 
 ## Method
+
 Put the rice and water in a pan, cover and bring to a boil. Once it has boiled, lower the heat and simmer for 15 min (or follow rice cooker instructions).
 
 **Note**: The rice should turn out a little dry, and crackly on the bottom. If you want to skip this, just make it normally.

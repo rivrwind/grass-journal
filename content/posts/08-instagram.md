@@ -11,6 +11,9 @@ tags: [instagram, social media, influencers, environmentalism, teju cole]
 typora-root-url: ../../content
 ---
 
+Title: Slaying the Instagram Beast
+Author: Hudson Gardner
+
 In the last seven years, permit applications for entry into a certain wilderness region in Washington have risen dramatically. In 2011 about 2,800 applications were received. But in 2018 the entries had increased to over 21,500. A similar trend has occurred in other wilderness areas across the USA. Suddenly, the amount of people going to very particular, even remote places, has exploded.
 
 There are probably many reasons why this has happened—there is a positive trend of people getting outdoors more. However, for certain key zones, it seems more is going on than random chance coupled with an increased interest in going outside.   
