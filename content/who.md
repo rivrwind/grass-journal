@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Who"
 date: 2019-03-01T22:53:17-07:00
 draft: false
 ---
@@ -11,12 +11,10 @@ draft: false
 ## Hudson Gardner
 川風  
 
-... is fond of [writing](/posts), [walking](https://outdoorproject.com/users/hudson-gardner), [coding](https://github.com/rivrwind/), [reading](https://www.goodreads.com/user/show/5249361-hudson-gardner), cooking, and growing plants.
+... is an artist. Relationships with plants, animals, and landscapes carry the same value to him as those with people. Deeply enmeshed with ecology, he spends a lot of time walking, biking, gardening, foraging, and otherwise being outside.
 
 As of March 2019 he is finishing his first full-length  
 book of writing — A Body of Water.
-
-He mostly makes money through his digital skills, such as photography and writing, and also by farming, which he has been doing for the last three years.
 
 He has a BA in Eastern Religion with a minor in Psychology.
 
@@ -24,5 +22,5 @@ He enjoys the sacred act of doing nothing.
 
 </br />
 
-## [Contact](mailto:hudsonlgardner@gmail.com) • [Instagram](http://instagram.com/rivrwind)
+## [Contact](mailto:hudsonlgardner@gmail.com) • [Instagram](http://instagram.com/rivrwind) • [Playlists](https://open.spotify.com/user/hudsongardner?si=wOM4S_4NSX6Nl5StmqPsZA)
 </center>

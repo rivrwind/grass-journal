@@ -49,6 +49,7 @@ defaultTheme = "light"
   description = "Writing, photos, walking, cooking, zen by Hudson Gardner"
   keywords = "blog, buddhism, spirituality, minimalism, photography, meditation, philosophy, gardening"
   images = [""]
+  subtitle = "Hudson Gardner"
 
   # Default theme "light" or "dark"
   defaultTheme = "light"

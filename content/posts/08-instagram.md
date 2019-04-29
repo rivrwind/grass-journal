@@ -11,9 +11,6 @@ tags: [instagram, social media, influencers, environmentalism, teju cole]
 typora-root-url: ../../content
 ---
 
-Title: Slaying the Instagram Beast
-Author: Hudson Gardner
-
 In the last seven years, permit applications for entry into a certain wilderness region in Washington have risen dramatically. In 2011 about 2,800 applications were received. But in 2018 the entries had increased to over 21,500. A similar trend has occurred in other wilderness areas across the USA. Suddenly, the amount of people going to very particular, even remote places, has exploded.
 
 There are probably many reasons why this has happened—there is a positive trend of people getting outdoors more. However, for certain key zones, it seems more is going on than random chance coupled with an increased interest in going outside.   
@@ -74,7 +71,7 @@ These thoughts so far have been drawn from my personal experience of using Insta
 
 The lack of something is a powerful motivator. Feeling a hole, a space that was once filled and is now empty, can compel massive effort. Relationships with other people, for example, are often both the hardest and most rewarding things in our lives. They are hard because we need them for our wellbeing, yet they take effort. They are rewarding because effort deepens them.   
 
-In my opinion, Instagram at its core is an illusory panderer of relationships. It makes one feel connected, while actually disconnecting people from the present. It makes one feel involved and accepted, but actually dis-involves, and perpetuates an insatiable need for recognition. Your mileage my vary, however, anecdotally, I have heard a lot of people echoing these same thoughts. But the way friends talk about it is more a vague uneasiness, like they are not really sure what to think of it. Their view of it sways from being terrible to wonderful. In other words, a relationship with Instagram for some can take on the hallmarks of an addiction. Something that is both loathed and loved, with obvious shortcomings, but that for some reason cannot be expelled.  
+In my opinion, Instagram at its core is a panderer of illusory relationships. It makes one feel connected, while actually disconnecting people from the present. It makes one feel involved and accepted, but actually dis-involves, and perpetuates an insatiable need for recognition. Your mileage my vary, however, anecdotally, I have heard a lot of people echoing these same thoughts. But the way friends talk about it is more a vague uneasiness, like they are not really sure what to think of it. Their view of it sways from being terrible to wonderful. In other words, a relationship with Instagram for some can take on the hallmarks of an addiction. Something that is both loathed and loved, with obvious shortcomings, but that for some reason cannot be expelled.  
 
 ## HOW IT ALL BEGAN
 

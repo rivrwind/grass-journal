@@ -6,67 +6,13 @@
     <description>Recent content in Tags on Grass Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 03:53:50 -0600</lastBuildDate>
     
 	<atom:link href="https://grassjournal.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Environmentalism</title>
-      <link>https://grassjournal.co/tags/environmentalism/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://grassjournal.co/tags/environmentalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Existence</title>
-      <link>https://grassjournal.co/tags/existence/</link>
-      <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
-      
-      <guid>https://grassjournal.co/tags/existence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influencers</title>
-      <link>https://grassjournal.co/tags/influencers/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://grassjournal.co/tags/influencers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instagram</title>
-      <link>https://grassjournal.co/tags/instagram/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://grassjournal.co/tags/instagram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://grassjournal.co/tags/photos/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://grassjournal.co/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poetry</title>
-      <link>https://grassjournal.co/tags/poetry/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://grassjournal.co/tags/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recipe</title>
+      <title>recipe</title>
       <link>https://grassjournal.co/tags/recipe/</link>
       <pubDate>Thu, 04 Apr 2019 03:53:50 -0600</pubDate>
       
@@ -75,7 +21,7 @@
     </item>
     
     <item>
-      <title>Recipe Journal</title>
+      <title>recipe journal</title>
       <link>https://grassjournal.co/tags/recipe-journal/</link>
       <pubDate>Sun, 31 Mar 2019 20:45:19 -0600</pubDate>
       
@@ -84,7 +30,34 @@
     </item>
     
     <item>
-      <title>Social Media</title>
+      <title>environmentalism</title>
+      <link>https://grassjournal.co/tags/environmentalism/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/tags/environmentalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influencers</title>
+      <link>https://grassjournal.co/tags/influencers/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/tags/influencers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instagram</title>
+      <link>https://grassjournal.co/tags/instagram/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
       <link>https://grassjournal.co/tags/social-media/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -93,16 +66,7 @@
     </item>
     
     <item>
-      <title>Tea</title>
-      <link>https://grassjournal.co/tags/tea/</link>
-      <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
-      
-      <guid>https://grassjournal.co/tags/tea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teju Cole</title>
+      <title>teju cole</title>
       <link>https://grassjournal.co/tags/teju-cole/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -111,7 +75,43 @@
     </item>
     
     <item>
-      <title>Water</title>
+      <title>photos</title>
+      <link>https://grassjournal.co/tags/photos/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poetry</title>
+      <link>https://grassjournal.co/tags/poetry/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tea</title>
+      <link>https://grassjournal.co/tags/tea/</link>
+      <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/tags/tea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>existence</title>
+      <link>https://grassjournal.co/tags/existence/</link>
+      <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/tags/existence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water</title>
       <link>https://grassjournal.co/tags/water/</link>
       <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
       
