@@ -4,8 +4,65 @@
   
   <url>
     <loc>https://grassjournal.co/posts/</loc>
-    <lastmod>2019-04-28T18:12:14-06:00</lastmod>
+    <lastmod>2019-07-19T22:38:10-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/three-ponderosa/</loc>
+    <lastmod>2019-07-19T22:38:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/the-way/</loc>
+    <lastmod>2019-07-19T22:33:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/hard-times/</loc>
+    <lastmod>2019-07-02T07:35:18-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/no-progress/</loc>
+    <lastmod>2019-06-19T06:55:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/santa-fe/</loc>
+    <lastmod>2019-06-07T08:37:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/seasoned-wood/</loc>
+    <lastmod>2019-05-23T14:57:38-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/tags/</loc>
+    <lastmod>2019-05-23T14:57:38-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/tags/poems/</loc>
+    <lastmod>2019-05-23T14:57:38-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/a-river-flows-to-the-sea/</loc>
+    <lastmod>2019-05-18T08:52:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/bodies-a-poem/</loc>
+    <lastmod>2019-05-04T10:56:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/a-handbook-for-ethical-instagram-use/</loc>
+    <lastmod>2019-04-29T09:18:02-06:00</lastmod>
   </url>
   
   <url>
@@ -26,12 +83,6 @@
   <url>
     <loc>https://grassjournal.co/scones/</loc>
     <lastmod>2019-04-04T03:53:50-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grassjournal.co/tags/</loc>
-    <lastmod>2019-04-04T03:53:50-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -103,12 +154,6 @@
   </url>
   
   <url>
-    <loc>https://grassjournal.co/tags/poetry/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://grassjournal.co/filling-the-void/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -136,6 +181,12 @@
   
   <url>
     <loc>https://grassjournal.co/tags/existence/</loc>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/tags/poetry/</loc>
     <lastmod>2019-03-08T13:12:05-07:00</lastmod>
     <priority>0</priority>
   </url>

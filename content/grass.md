@@ -8,36 +8,44 @@ draft: false
 ![](/img/grass-hut-web.png#center)  
 
 &nbsp;
-<center>
-
-
 &nbsp;
 
+<center>
 # Grass Journal is...
 
+...a space of refreshing slowness.
 
-
-...a space of refreshing slowness.       
 A cool oasis of the internet.
 
-°  
+I want you to spend some time here,
 
-*Sitting quietly,  
-doing nothing—  
-spring comes;  
-the grass grows  
-by itself.*
+but you don't have to.
+
+The greatest asset is true freedom—
+
+from fear, from hate, from having to do things
+
+that don't make any sense to you.
+
+°
+
+Sitting quietly,
+
+doing nothing—
+
+spring comes;
+
+the grass greens, grows
+
+by itself.
+
+</center>
+
 &nbsp;
-
-
-
-</center>  
-
 &nbsp;
 &nbsp;
 
 <center>
-## [View All posts](/posts)⇾
+## [View All posts ⇾](/posts)
 ### [Subscribe](/subscribe)
 </center>
-

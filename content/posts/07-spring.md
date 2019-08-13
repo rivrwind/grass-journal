@@ -8,7 +8,7 @@ toc: false
 comments: true
 cover: 18.12.27-bush.jpg
 featured_image: /img/18.12.27-bush.jpg
-tags: [poetry, photos]
+tags: [poems, photos]
 typora-root-url: ../../content
 ---
 
