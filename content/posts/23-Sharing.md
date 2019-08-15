@@ -4,7 +4,7 @@ subtitle: ""
 slug: ""
 author: "Hudson Gardner"
 date: "2019-08-14T19:40:35-06:00"
-draft: false
+draft: true
 toc: false
 comments: true
 cover: 19.Jul.19-86.jpg
