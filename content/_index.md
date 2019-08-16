@@ -5,7 +5,7 @@ author: "Hudson Gardner"
 date: "2019-03-23T11:37:17-06:00"
 draft: false
 comments: false
-images:
+images: 19.3-rocks.jpg
 ---
 
 ---

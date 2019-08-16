@@ -5,14 +5,28 @@
             <div class="content">{{ .Content }}</div>
         {{- end }}
 
+<!-- recent post code  -->
+<h3>LATEST POST</h3>
+
+  {{ range first 3 .Pages }}
+
+<ul id="menu">
+
+      <li><a href="{{ .RelPermalink}}"><img{{ with .Params.cover }} src="/img/{{ . }}"{{ end }} alt="{{ .Title }}"></a></li>
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+
+</ul>
+
+  {{ end }}
+
+<hr>
 <br />
 <br />
-
-
-<h2 id="archive">Archive</h2>
+<h2>Archive</h2>
         {{- range .Data.Pages.GroupByDate "2006" }}
             <div class="posts-group">
                 <div class="post-year">{{ .Key }}</div>
+
                 <ul class="posts-list">
                     {{- range .Pages }}
                         <li class="post-item">

@@ -65,7 +65,6 @@ h3 {
 h4 {
   font-size: 1.125rem;
 }
-
 @media #{$media-size-phone} {
   h1 {
     font-size: 2rem;
@@ -373,4 +372,9 @@ ul#post{
 
 .footer a{
   border-bottom: none !important;
+}
+
+ul#menu li{
+  display: inline;
+  list-style: none;
 }

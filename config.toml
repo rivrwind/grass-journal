@@ -3,7 +3,7 @@ title   = "Grass Journal"
 
 languageCode = "en-us"
 theme = "hello-friend-ng"
-images = "mountain.png"
+images = "/img/mountain.png"
 favicon = "favicon.ico"
 
 googleAnalytics = "UA-136102762-1"

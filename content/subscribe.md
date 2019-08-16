@@ -4,7 +4,7 @@ author: "Hudson Gardner"
 date: "2019-03-09T15:10:28-07:00"
 draft: false
 comments: false
-images:
+images: /img/16.05.28-metolius.jpg
 ---
 
 <center>
