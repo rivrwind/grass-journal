@@ -17,6 +17,8 @@ draft: false
 
 A cool oasis of the internet.
 
+A record of the beauty and mystery of landscapes.
+
 I want you to spend some time here,
 
 but you don't have to.

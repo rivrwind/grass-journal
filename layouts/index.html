@@ -1,17 +1,16 @@
 {{ define "main" }}
 
 <h1 id="underline">Grass Journal</h1>
-巻草
+草本
 
 <main class="posts">
 <hr />
 
 <!-- latest post code  -->
-    {{ range first 1 .Pages }}
+{{ range first 1 site.RegularPages }}
 
       <!-- this <div> includes the title summary -->
       <article>
-
 
           {{- if .Params.toc }}
               <hr />
@@ -38,7 +37,7 @@
 
           <div class="post-content">
 
-              {{ .Content }}
+              {{.Content}}
 
           </div>
       </article>
@@ -46,8 +45,8 @@
       {{ end }}
 
       {{- if .Content }}
-          <div class="content">{{ .Content }}</div>
+          <div class="content">{{.Content}}</div>
       {{- end }}
-    </main>
+</main>
 
 {{ end }}

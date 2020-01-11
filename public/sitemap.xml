@@ -1,16 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://grassjournal.co/a-body-of-water/</loc>
+    <lastmod>2020-01-11T07:15:25-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grassjournal.co/posts/</loc>
-    <lastmod>2019-08-14T19:40:35-06:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-11T07:15:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/gardner-farm/</loc>
+    <lastmod>2019-12-26T15:35:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/holidays/</loc>
+    <lastmod>2019-11-26T10:56:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/poetry/</loc>
+    <lastmod>2019-09-09T06:25:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/starting-a-podcast/</loc>
+    <lastmod>2019-08-21T20:13:09-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://grassjournal.co/why-i-share/</loc>
     <lastmod>2019-08-14T19:40:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/podcast/</loc>
+    <lastmod>2019-08-02T19:58:40-06:00</lastmod>
   </url>
   
   <url>
@@ -39,6 +68,11 @@
   </url>
   
   <url>
+    <loc>https://grassjournal.co/tags/poems/</loc>
+    <lastmod>2019-05-23T14:57:38-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grassjournal.co/seasoned-wood/</loc>
     <lastmod>2019-05-23T14:57:38-06:00</lastmod>
   </url>
@@ -46,13 +80,6 @@
   <url>
     <loc>https://grassjournal.co/tags/</loc>
     <lastmod>2019-05-23T14:57:38-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://grassjournal.co/tags/poems/</loc>
-    <lastmod>2019-05-23T14:57:38-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -93,7 +120,6 @@
   <url>
     <loc>https://grassjournal.co/tags/recipe/</loc>
     <lastmod>2019-04-04T03:53:50-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -104,7 +130,21 @@
   <url>
     <loc>https://grassjournal.co/tags/recipe-journal/</loc>
     <lastmod>2019-03-31T20:45:19-06:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/tags/environmentalism/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/tags/influencers/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/tags/instagram/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,33 +153,13 @@
   </url>
   
   <url>
-    <loc>https://grassjournal.co/tags/environmentalism/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://grassjournal.co/tags/influencers/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://grassjournal.co/tags/instagram/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://grassjournal.co/tags/social-media/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://grassjournal.co/tags/teju-cole/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -148,14 +168,13 @@
   </url>
   
   <url>
-    <loc>https://grassjournal.co/spring/</loc>
+    <loc>https://grassjournal.co/tags/photos/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://grassjournal.co/tags/photos/</loc>
+    <loc>https://grassjournal.co/spring/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -171,7 +190,6 @@
   <url>
     <loc>https://grassjournal.co/tags/tea/</loc>
     <lastmod>2019-03-12T09:26:04-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -180,26 +198,23 @@
   </url>
   
   <url>
+    <loc>https://grassjournal.co/tags/existence/</loc>
+    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grassjournal.co/my-way-of-explaining/</loc>
     <lastmod>2019-03-08T13:12:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://grassjournal.co/tags/existence/</loc>
-    <lastmod>2019-03-08T13:12:05-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://grassjournal.co/tags/poetry/</loc>
     <lastmod>2019-03-08T13:12:05-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://grassjournal.co/tags/water/</loc>
     <lastmod>2019-03-08T13:12:05-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -234,7 +249,6 @@
   
   <url>
     <loc>https://grassjournal.co/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

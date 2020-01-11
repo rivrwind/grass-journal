@@ -3,7 +3,7 @@ title   = "Grass Journal"
 
 languageCode = "en-us"
 theme = "hello-friend-ng"
-images = "/img/mountain.png"
+images = "mountain.png"
 favicon = "favicon.ico"
 
 googleAnalytics = "UA-136102762-1"
@@ -78,15 +78,20 @@ defaultTheme = "light"
 # And you can even create generic menu
 [menu]
   [[menu.main]]
+    identifier = "podcast"
+    name       = "Podcast"
+    url        = "/podcast"
+    weight     = "2"
+  [[menu.main]]
     identifier = "who"
     name       = "Who"
     url        = "/who"
     weight     = "3"
   [[menu.main]]
-    identifier = "grass"
-    name       = "Grass"
+    identifier = "About"
+    name       = "About"
     url        = "/grass"
-    weight     = "2"
+    weight     = "4"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"

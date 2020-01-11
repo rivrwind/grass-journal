@@ -27,7 +27,8 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-
+  text-align: justify !important;
+  text-justify: auto;
 
   @media #{$media-size-phone} {
     font-size: 1rem;
@@ -338,6 +339,7 @@ a{
   color: #2f2f2f;
   text-decoration: none;
   border-bottom: 4px solid rgb(232, 213, 154) !important;
+  transition: 0.3s;
 }
 
 .dark-theme a{
@@ -372,9 +374,4 @@ ul#post{
 
 .footer a{
   border-bottom: none !important;
-}
-
-ul#menu li{
-  display: inline;
-  list-style: none;
 }

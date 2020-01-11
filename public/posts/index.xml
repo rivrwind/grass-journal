@@ -1,47 +1,87 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Grass Journal</title>
-        <link>https://grassjournal.co/posts/</link>
-        <description>Recent content in Posts on Grass Journal</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Wed, 14 Aug 2019 19:40:35 -0600</lastBuildDate>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Grass Journal</title>
+    <link>https://grassjournal.co/posts/</link>
+    <description>Recent content in Posts on Grass Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2020 07:15:25 -0700</lastBuildDate>
+    
         <atom:link href="https://grassjournal.co/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Why I Share</title>
-            <link>https://grassjournal.co/why-i-share/</link>
-            <pubDate>Wed, 14 Aug 2019 19:40:35 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/why-i-share/</guid>
-            <description>After deleting my Instagram account, I have been thinking a lot about sharing.
+    
+    
+    <item>
+      <title>A Body of Water</title>
+      <link>https://grassjournal.co/a-body-of-water/</link>
+      <pubDate>Sat, 11 Jan 2020 07:15:25 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/a-body-of-water/</guid>
+      <description>About ten years ago I carried a camera with me wherever I went. It was mostly film rangefinders back then—Leicas, Bronicas, Olympus XAs, a Zeiss or two—and I had the film developed. And I scanned it myself. I posted the photos to Flickr. I had thousands of photos there. I switched to DSLRS after a while, then back and forth, then went digital for good when film developing started to get ever more expensive.</description>
+    </item>
+    
+    <item>
+      <title>Gardner Farm</title>
+      <link>https://grassjournal.co/gardner-farm/</link>
+      <pubDate>Thu, 26 Dec 2019 15:35:02 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/gardner-farm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holidays</title>
+      <link>https://grassjournal.co/holidays/</link>
+      <pubDate>Tue, 26 Nov 2019 10:56:48 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/holidays/</guid>
+      <description>Photos by Anna Every year I make a playlist of holiday music. It has a winter theme, I guess mostly drawn from the feeling of the season. Here are this year and the last two years worth—
+🎄Holidays, Vol. 1
+❄️Holidays, Vol. 2
+⛄️Holidays, Vol. 3</description>
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>https://grassjournal.co/poetry/</link>
+      <pubDate>Mon, 09 Sep 2019 06:25:42 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/poetry/</guid>
+      <description>“It is difficult to get the news from poems
+yet men die miserably every day
+for lack of what is found there.”
+ — William Carlos Williams
+I remember wandering in the woods in Maine, not long ago, and I saw a tree stump. And I thought, how worthless this stump. The tree has died, and there is nothing left but a jagged place, taking up space. And yet, as we know now, trees, for some reason, keep other trees alive long after death.</description>
+    </item>
+    
+    <item>
+      <title>Starting A Podcast</title>
+      <link>https://grassjournal.co/starting-a-podcast/</link>
+      <pubDate>Wed, 21 Aug 2019 20:13:09 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/starting-a-podcast/</guid>
+      <description>I have thought about starting a podcast for years. But the ideas never congealed. Just recently, though, I came to an idea that has some momentum. Over the last year I wrote a book called A Body of Water. The podcast will be about publishing this book.
+The book itself is a loosely connected narrative of poems about my search for home over about four years time. It also has themes of impermanence, interbeing, and ecology.</description>
+    </item>
+    
+    <item>
+      <title>Why I Share</title>
+      <link>https://grassjournal.co/why-i-share/</link>
+      <pubDate>Wed, 14 Aug 2019 19:40:35 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/why-i-share/</guid>
+      <description>After deleting my Instagram account, I have been thinking a lot about sharing.
 When I was growing up, sharing was partly learned. It felt hard at first. It usually meant giving away something that you wouldn&amp;rsquo;t get back. It meant a comittment of a resource to some person or purpose. Like a juicebox at lunch, or a seat at a table.
 However, once a person learns to share, it feels good.</description>
-            <content type="html"><![CDATA[<p>After deleting my Instagram account, I have been thinking a lot about sharing.</p>
-
-<p>When I was growing up, sharing was partly learned. It felt hard at first. It usually meant giving  away something that you wouldn&rsquo;t get back. It meant a comittment of a resource to some person or purpose. Like a juicebox at lunch, or a seat at a table.</p>
-
-<p>However, once a person learns to share, it feels good. At its root sharing is an inclusive act. Inclusivity feels better than exclusivity. Generosity has been proven to produce good feelings in giver and receiver.</p>
-
-<p>Along with this, there is an unlearned human need to share. Sharing begets connection, which creates and maintains relationships. And you can see the innate generosity of humans in how children always want to help.</p>
-
-<p>The earth is the original sharer, or gift. Being born on earth, we are completely dependent on her. Just how a grizzly is dependent on salmon runs, so we are dependent on rainfall, snowmelt, soil, weather, trees… As society has expanded, and technology has grown, we are actually more dependent on the earth than before—though at first it seems opposite. The ways we are dependent on it have simply been confused and hidden.</p>
-
-<p>The ability to share comes from having something. I find it interesting I often see those with the most reluctant to share, whether it&rsquo;s friends, resources, space. And those with the least the most willing.</p>
-
-<p>I think about the original gift of life, of just having a life, and it inspires, in me, a feeling of wanting to give back. I think this is where the deepest parts of my motivation to keep writing, keep working come from.</p>
-
-<p>Thanks for reading, and check out this podcast episode about <a href="https://charleseisenstein.org/podcasts/new-and-ancient-story-podcast/lynne-twist-a-conversation-about-living-in-the-gift-e37/">sharing and gifts</a></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Three Ponderosa</title>
-            <link>https://grassjournal.co/three-ponderosa/</link>
-            <pubDate>Fri, 19 Jul 2019 22:38:10 -0700</pubDate>
-            
-            <guid>https://grassjournal.co/three-ponderosa/</guid>
-            <description>Close the eyes, and slip in
+    </item>
+    
+    <item>
+      <title>Three Ponderosa</title>
+      <link>https://grassjournal.co/three-ponderosa/</link>
+      <pubDate>Fri, 19 Jul 2019 22:38:10 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/three-ponderosa/</guid>
+      <description>Close the eyes, and slip in
 to that dark space.
 A moment, then none.
 No time.
@@ -58,281 +98,74 @@ of Ponderosa.
 The old trees dance so slow.
 And the moons soft glow.
 I can&amp;rsquo;t even see, anymore:</description>
-            <content type="html"><![CDATA[<p>Close the eyes, and slip in<br />
-to that dark space.<br />
-A moment, then none.<br />
-No time.<br />
-I cannot explain.</p>
-
-<p>Deep<br />
-in the pine woods<br />
-the water running by logs<br />
-and rafts<br />
-of flowers.</p>
-
-<p>I come back, then go again.<br />
-A breath, or maybe more time passes.</p>
-
-<p>In the dark: wavy changy patterns, like the bark<br />
-of Ponderosa.<br />
-The old trees dance so slow.<br />
-And the moons soft glow.<br />
-I can&rsquo;t even <em>see</em>, anymore:<br />
-who I am<br />
-or how I&rsquo;ll be.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>The Way</title>
-            <link>https://grassjournal.co/the-way/</link>
-            <pubDate>Fri, 19 Jul 2019 22:33:01 -0700</pubDate>
-            
-            <guid>https://grassjournal.co/the-way/</guid>
-            <description>All of the trails in this area are user maintained, and hard to follow. The safe way: find someone familiar, and go together The unsafe way: go alone — Directions to Lost Creek Chuang Tzu picked up the trail where it ended, and kept on going Li Po left behind a cup of steaming tea when he disappeared Tu Fu a branched bamboo shack, covered with old weeds, and a frog inside Lao Tzu left town by the most remote gate In the woods, where there are no paths.</description>
-            <content type="html"><![CDATA[<pre>
-
-<em>All of the trails in this area are user maintained, and hard to follow.   
-The safe way: find someone familiar, and go together  
-The unsafe way: go alone</em>
-— Directions to Lost Creek  
-
-Chuang Tzu picked up the trail where it ended, and kept on going  
-Li Po left behind a cup of steaming tea when he disappeared  
-Tu Fu a branched bamboo shack, covered with old weeds, and a frog inside  
-Lao Tzu left town by the most remote gate  
-
-In the woods, where there are no paths.  
-I go, and pretend to be alone.  
-It would be good to be really alone.  
-No one left to know, or meet  
-and nothing left to see.  
-
-"Life is long, Hudson  
-and by the end  
-you'll see how it ends up.  
-                         (An old climber, from the Fred Beckey days.)  
-We chalked up first ascents here and there.  
-Cascades, haida gawai, Canadian Rockies, and up into Alaska.  
-                          (Where the trees still throb with that loud-quiet thrum)  
-You've got a good heart, kid.  
-I told you once  
-my favorite place  
-are the steep slopes  
-before the trees end.  
-Where there are no trails."  
-
-</pre>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Hard Times</title>
-            <link>https://grassjournal.co/hard-times/</link>
-            <pubDate>Tue, 02 Jul 2019 07:35:18 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/hard-times/</guid>
-            <description>Things have been rough lately, or longly, for about two years now. I don&amp;rsquo;t think I wrote much about it, keeping difficulty to myself here and there, not wanting to bring anyone down, but now that I can see some kind of end, or at least some kind of change, I thought I&amp;rsquo;d write a few things down.
+    </item>
+    
+    <item>
+      <title>The Way</title>
+      <link>https://grassjournal.co/the-way/</link>
+      <pubDate>Fri, 19 Jul 2019 22:33:01 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/the-way/</guid>
+      <description>All of the trails in this area are user maintained, and hard to follow. The safe way: find someone familiar, and go together The unsafe way: go alone — Directions to Lost Creek Chuang Tzu picked up the trail where it ended, and kept on going Li Po left behind a cup of steaming tea when he disappeared Tu Fu a branched bamboo shack, covered with old weeds, and a frog inside Lao Tzu left town by the most remote gate In the woods, where there are no paths.</description>
+    </item>
+    
+    <item>
+      <title>Hard Times</title>
+      <link>https://grassjournal.co/hard-times/</link>
+      <pubDate>Tue, 02 Jul 2019 07:35:18 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/hard-times/</guid>
+      <description>Things have been rough lately, or longly, for about two years now. I don&amp;rsquo;t think I wrote much about it, keeping difficulty to myself here and there, not wanting to bring anyone down, but now that I can see some kind of end, or at least some kind of change, I thought I&amp;rsquo;d write a few things down.
 For those who don&amp;rsquo;t know, over the last four or so years Anna and I have been mostly living in remote places, far away from friends, community, and support.</description>
-            <content type="html"><![CDATA[<p>Things have been rough lately, or longly, for about two years now. I don&rsquo;t think I wrote much about it, keeping difficulty to myself here and there, not wanting to bring anyone down, but now that I can see some kind of end, or at least some kind of change, I thought I&rsquo;d write a few things down.</p>
-
-<p>For those who don&rsquo;t know, over the last four or so years Anna and I have been mostly living in remote places, far away from friends, community, and support. We were living in such a way to come close to what interested us, and also because we didn&rsquo;t know the answers to the questions we were asking: where is home? How to live? What really matters? Through trying life of different kinds in places ranging from Washington to Maine, we arrived at some of these answers. We also encountered hardship, loneliness (a rather new feeling for Anna, who grew up surrounded by family and friends), abuse, and rejection. Everyone wants there to be a good side, a light side to the difficulty people encounter, and there usually is. But something I think that people maybe don&rsquo;t want to hear is sometimes there isn&rsquo;t a bright side. Sometimes there is no silver lining. Sometimes things just suck for a long, long time.</p>
-
-<p>When things suck for a very long time, one begins to question themselves. Is it me? Is it the choices I&rsquo;ve made, that have driven me to loneliness and despair? And of course the answer is in part: yes. It is you. Especially if you&rsquo;ve had the wherewithal to make choices (some people don&rsquo;t have such a thing as choice). This realization of responsibility for one&rsquo;s choices is maybe one of the most difficult truths I&rsquo;ve encountered in life. The reality is: we don&rsquo;t know where our choices will lead us, or what the questions will cause to work within us. What seemed like an honest thought or need can be endlessly elusive. And I find the closer to the grain that I cut the more the point of my action eludes.</p>
-
-<p>What things sucking for a long time does, however, is create a kind of tarnished wisdom about life. If you want, though I&rsquo;d rather not refer to it this way, you could say that this is the &ldquo;silver lining.&rdquo; But the reality is that it&rsquo;s only a positive in retrospect, and the marks of hardness and difficulty maybe never leave a person. That&rsquo;s why the lesson sticks, and that&rsquo;s where the wisdom comes from. When the pain is driven so deep it can never be forgotten. The old adage: one thorn of experience is worth a whole wilderness of warning.</p>
-
-<p>About a month ago, Anna and I moved to Santa Fe, figuring it would be an easy move, just an hour and a half south, a few friends, lots of jobs. Instead it took about two months (of searching beforehand and while staying at a friends) to find a place that then was more expensive than any place either of us had ever paid for. Anna interviewed for a month before finding a job, feeling worthless, judged, and ignored in the process. The friends we had, apart from one, have been so far hard to understand and not very inviting or supportive. This would have been alright if not for it coming on the tail of three or so years of hardship and loneliness. Being on the back of that, and also receiving rejection after rejection from many publications in my attempt to publish writing and photos (and also this book I&rsquo;ve written), this final push in a place we hoped would be welcoming has been an &ldquo;out of the frying pan and into the fire&rdquo; kind of experience.</p>
-
-<p>I think in many cases what people are driven to do in this situation is to try and get rid of the difficult part of life immediately, by whatever means possible. However, I still think experiences like this are valuable, and they shouldn&rsquo;t be discarded as though worthless. I think that experiences of our essential loneliness are profoundly important. But they are very hard to bear.</p>
-
-<p>I sat outside a few nights ago, feeling more depressed than I have in a very long time.  I started crying and by some strange circumstance it also started raining. Little events like these happen to me often. I often feel like the world outside of human constructs is my true home, and that in a strange way it listens and holds me no matter what happens. It will always be there.</p>
-
-<p>Sometimes it really does feel like the entire human world is conspiring against you. The core of my feeling on the patio was a complete lack of being valued. Things have been rough at work lately, and also with certain very important interpersonal relationships. Feeling a lack of value, like a piece of trash to be discarded by the rest of society, is basically the lowest a person can go. To feel unwelcome, unwanted, and uncared for brings about the deepest depression a person can experience. I think this is how people who are far less fortunate than me, such as the houseless and the incarcerated, feel on a daily basis.</p>
-
-<p>Thankfully, I have things that I love. I love to walk. I love music. I love to cook. I still  love taking beautiful photos. I love Anna. I love my family, and Anna&rsquo;s family. I love the friends I have in distant places. I love technology. I love Thom Yorke. I love the taste of the bread Anna is getting better at baking. I love this tea I discovered called cota, that grows in groves along the Santa Fe river near where I live. I love my sister. I love my brothers. I love rain after sun and sun after rain. I love the pine-scent. I love the lizards that gulp down ants and live in the bushes on the patio. I love learning and reading. There is so much I love. And in this, I find value. And the value is reflected back at me: what I love, loves me, even if it is a rock, river, or tree. The world itself loves me back. And feeling that love, I will never be alone.</p>
-
-<pre>
-
-  <br>
-
-<strong>The Camp Fire</strong>
-And along the dry golden hills 
-in Mendocino summer
-I drove to a grove of old trees four years ago.
-Eucalyptus, resin - scent
-oily air
-dead grass
-no water flow.
-The fires came this spring
-to that same place.
-        “You don't want to let go 
-                                  of the past
-                    because that's how 
-                        we learned to live
-            And be who we are.”
-A man who lost his house said.
-
-​       “Friends and family call us
-​                       ask how we’re doing
-​               they don’t want to hear
-​                                 that we’re not OK.
-​       Forever everything will be different.
-​                     
-
-​               We lost what we had.
-​                                   We carry what’s left
-​               in our DNA.”
-
-</pre>
-]]></content>
-        </item>
-        
-        <item>
-            <title>No Progress</title>
-            <link>https://grassjournal.co/no-progress/</link>
-            <pubDate>Wed, 19 Jun 2019 06:55:05 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/no-progress/</guid>
-            <description>For many, this is where the story of their life begins.
+    </item>
+    
+    <item>
+      <title>No Progress</title>
+      <link>https://grassjournal.co/no-progress/</link>
+      <pubDate>Wed, 19 Jun 2019 06:55:05 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/no-progress/</guid>
+      <description>For many, this is where the story of their life begins.
 In such a room, when they had few things, life was charted to become larger, to include more. Maybe, though, there was a part of Steve Jobs that wished he had never left that room.
 For me, this is where life begins, but also where it ends. I have thought carefully about what I want, and tried things. There is something so beautiful in this empty room to me.</description>
-            <content type="html"><![CDATA[<p>For many, this is where the story of their life begins.</p>
-
-<p>In such a room, when they had few things, life was charted to become larger, to include more. Maybe, though, there was a part of Steve Jobs that wished he had never left that room.</p>
-
-<p>For me, this is where life begins, but also where it ends. I have thought carefully about what I want, and tried things. There is something so beautiful in this empty room to me. The beauty is a kind of space. There is space there. Space, like time, is interesting in that as I grow older I see that both space and time become rare commodities. Space to be.</p>
-
-<p>This may seem like a counter-culture statement. But I would like to say this idea of space and simplicity is a place lived in on it&rsquo;s own. It is not against anything.</p>
-
-<p>Never wanting more than that room is like choosing a fork in a trail<br />
-that is narrower and also wider<br />
-that has brought me somewhere<br />
-both very old yet always new.<br />
-It&rsquo;s less clear, this Way,<br />
-It&rsquo;s very quiet though.<br />
-And it has taught me to not have fear.<br />
-There&rsquo;s a lot of space here,<br />
-to garden in, to cook, to sleep and eat,<br />
-to make mistakes.</p>
-
-<p>So much of my work is about a single idea: losing sight of myself. Learning, re-learning to not think, and not do. Yet life we are told should be about building up a self—making it larger and larger, happier and happier.</p>
-
-<p>I like to rest in a darkened room<br />
-with a place to sit, music, and a cup of tea.</p>
-
-<p><img src="/img/19.6.16.jpg" alt="19.6.16" /></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Santa Fe</title>
-            <link>https://grassjournal.co/santa-fe/</link>
-            <pubDate>Fri, 07 Jun 2019 08:37:20 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/santa-fe/</guid>
-            <description>On the corner of Cerillos and Don Diego I saw a man working on his car as I crossed the street. He had the hood up and was talking with a friend. &amp;ldquo;Is that a carbeurator?&amp;rdquo; I asked as I walked up. &amp;ldquo;Oh yeah, it&amp;rsquo;s a carbeurator. Got the original clutch in it too man, like a hundred fifty thousand on it.&amp;rdquo; We talked about how much easier it was to work on carbuerated cars rather than fuel injection.</description>
-            <content type="html"><![CDATA[<p><img src="/img/1-Anna-June.jpg" alt="Anna Koenig Artist" /></p>
-
-<p><img src="/img/2-Anna-June.jpg" alt="Anna Koenig Artist" /></p>
-
-<p>On the corner of Cerillos and Don Diego I saw a man working on his car as I crossed the street. He had the hood up and was talking with a friend. &ldquo;Is that a carbeurator?&rdquo; I asked as I walked up. &ldquo;Oh yeah, it&rsquo;s a carbeurator. Got the original clutch in it too man, like a hundred fifty thousand on it.&rdquo; We talked about how much easier it was to work on carbuerated cars rather than fuel injection. It turned out he and his friend were changing the fluids and getting the car ready for a move. &ldquo;I&rsquo;ve been living in this place 12 years man, and they just raised the rent $400. Just like that,&rdquo; he snapped his fingers. &ldquo;And so I&rsquo;m moving south.&rdquo; I told him I was looking for a place too, but from Taos for about a month and a half. My lease had just ended the day before, so I was staying at a friends with all me and my girlfriends stuff in the back of our pickup. He gave me some tips and said to check a few places. He said to look on Craigslist for sublets or house sitting. &ldquo;I made it into a job but I never found nothing here man. I&rsquo;m going to live in this thing,&rdquo; he pointed at a van parked next to us, with sheets over the windows &ldquo;until that place down south opens up. I&rsquo;m camping early man!&rdquo; he said laughing. We talked for a while longer. I learned he grew up in Española, where he said me and my girlfriend &ldquo;wouldn&rsquo;t really fit.&rdquo;<br />
-&ldquo;But you know man I wouldn&rsquo;t fit where you come from, no offense.&rdquo;<br />
-&ldquo;No but you could hang out with us,&rdquo; I said. He and his friend laughed.<br />
-&ldquo;Well good luck, I&rsquo;ll pray for you,&rdquo; he said, clasping his hands at his chest.<br />
-&ldquo;You too man, good luck.&rdquo;<br />
-&ldquo;If you need a place to stay, let me know,&rdquo; he said.<br />
-&ldquo;We&rsquo;re with a friend, but thanks.&rdquo;<br />
-&ldquo;Well if you need something just come back here. Let me know. Let me know.&rdquo;<br />
-&ldquo;Alright,&rdquo; I said shaking his hand.</p>
-
-<p>I walked away feeling awkward and humbled: someone I barely knew, maybe in worse position than me, yet offering what he could. As we waited to cross Don Diego Mercedes and BMWs ripped by.</p>
-
-<p>We walked down the street, and into our friend&rsquo;s house, and opened our laptops to look at Craigstlist again.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Seasoned Wood</title>
-            <link>https://grassjournal.co/seasoned-wood/</link>
-            <pubDate>Thu, 23 May 2019 14:57:38 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/seasoned-wood/</guid>
-            <description>Seasoned Wood
+    </item>
+    
+    <item>
+      <title>Santa Fe</title>
+      <link>https://grassjournal.co/santa-fe/</link>
+      <pubDate>Fri, 07 Jun 2019 08:37:20 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/santa-fe/</guid>
+      <description>On the corner of Cerillos and Don Diego I saw a man working on his car as I crossed the street. He had the hood up and was talking with a friend. &amp;ldquo;Is that a carbeurator?&amp;rdquo; I asked as I walked up. &amp;ldquo;Oh yeah, it&amp;rsquo;s a carbeurator. Got the original clutch in it too man, like a hundred fifty thousand on it.&amp;rdquo; We talked about how much easier it was to work on carbuerated cars rather than fuel injection.</description>
+    </item>
+    
+    <item>
+      <title>Seasoned Wood</title>
+      <link>https://grassjournal.co/seasoned-wood/</link>
+      <pubDate>Thu, 23 May 2019 14:57:38 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/seasoned-wood/</guid>
+      <description>Seasoned Wood
 Working back and forth across the ground dragging logs to piles leaving them lay for a season, then splitting the logs, and laying them out.  ~~ By a river he lived for thirtyseven years cutting the meadow with a scythe in the hot June sun. Seasoning the land with his own sweat of work. Laying logs aside, for winter. Bucking and splitting, tucking things in. Then he died.</description>
-            <content type="html"><![CDATA[<p><strong>Seasoned Wood</strong></p>
-
-<pre><em>Working back and forth across the ground  
-dragging logs to piles  
-leaving them lay for a season, then  
-splitting the logs, and laying them out. </em>
-
-~~
-
-By a river he lived  
-for thirtyseven years  
-cutting the meadow with a scythe  
-in the hot June sun.
-
-Seasoning the land with his own sweat  
-of work.  
-Laying logs aside, for winter.  
-Bucking and splitting, tucking things in.
-
-Then he died.  
-Everything came back in.  
-The river flooded  
-and washed it clean.
-
-~~
-
-Far below where they were cut  
-seasoned logs roll ashore.  
-I slice off an end, with a sharp knife.
-
-Light a fire, burns salt blue.  
-Roast an apple, eat it hot.  
-Toss the core       into the flames.
-
-Heating and eating and resting  
-along where things come down to  
-from far away.  
-Seasoning myself with sand.  
-Thinking of it all, laying with it.  
-
-Staring at the sky, and wondering  
-how the work of becoming something   
-all comes           to a point          then disperses  
-breaks away  
-and is gone.</pre>
-]]></content>
-        </item>
-        
-        <item>
-            <title>A River Flows To The Sea</title>
-            <link>https://grassjournal.co/a-river-flows-to-the-sea/</link>
-            <pubDate>Sat, 18 May 2019 08:52:39 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/a-river-flows-to-the-sea/</guid>
-            <description>Here&amp;rsquo;s something funny—
+    </item>
+    
+    <item>
+      <title>A River Flows To The Sea</title>
+      <link>https://grassjournal.co/a-river-flows-to-the-sea/</link>
+      <pubDate>Sat, 18 May 2019 08:52:39 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/a-river-flows-to-the-sea/</guid>
+      <description>Here&amp;rsquo;s something funny—
 So many times I&amp;rsquo;ve been told I can&amp;rsquo;t do what I want to do, by so many people, in so many ways. It happens almost every day. And then you might think to yourself, &amp;ldquo;well, I guess this guy is just really selfish, self-centered, and ignorant.&amp;rdquo; That&amp;rsquo;s not true either though, because I do listen: to how plants grow, to how animals live, to how people care and support one another.</description>
-            <content type="html"><![CDATA[<p>Here&rsquo;s something funny—</p>
-
-<p>So many times I&rsquo;ve been told I can&rsquo;t do what I want to do, by so many people, in so many ways. It happens almost every day. And then you might think to yourself, &ldquo;well, I guess this guy is just really selfish, self-centered, and ignorant.&rdquo; That&rsquo;s not true either though, because I do listen: to how plants grow, to how animals live, to how people care and support one another. But I don&rsquo;t let myself listen to things that don&rsquo;t make sense to me. And it isn&rsquo;t an ego-based rejection, it&rsquo;s a thought of what will make me most free. Free from fear, free from anger, free from control. Oh no, it&rsquo;s not easy and blissful at all. In fact, doing what I do is the opposite of easy and blissful. No, it&rsquo;s the hard work. The work that benefits no one else but myself, for now. But I believe in the idea of honing oneself through work like this, whether it&rsquo;s with others, or alone. And through that honing becoming more fully human, and able to know the answers, and be there for others whether it&rsquo;s a landscape, a plant, a community, or another person.</p>
-
-<p>If a river wandered into the desert in many little streams it would dry up and disappear. But if it keeps its main course it will flow to the ocean. Poetic, maybe, but in my route through life I&rsquo;ve found it to be true.</p>
-
-<p>Keep telling me I&rsquo;m wrong, that I&rsquo;m taking the wrong course, that I&rsquo;ll never amount to anything. I don&rsquo;t care about proving you wrong, because I know it&rsquo;s not me you&rsquo;re talking to. You&rsquo;re speaking to your own fears, of what you think is possible or impossible. I&rsquo;ll prove one thing: that a human being can remain free and alive through a life, like a river flowing cleanly down through so many things and down to the sea.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Bodies - A Poem</title>
-            <link>https://grassjournal.co/bodies-a-poem/</link>
-            <pubDate>Sat, 04 May 2019 10:56:24 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/bodies-a-poem/</guid>
-            <description>Photo: Anna off trail in the Jemez
+    </item>
+    
+    <item>
+      <title>Bodies - A Poem</title>
+      <link>https://grassjournal.co/bodies-a-poem/</link>
+      <pubDate>Sat, 04 May 2019 10:56:24 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/bodies-a-poem/</guid>
+      <description>Photo: Anna off trail in the Jemez
 My body, yours
 the forest floor
 body of earth.
@@ -351,462 +184,98 @@ river running
 under a bridge.
 Bosqué, cottonwoods, los alamos
 huge valley, snow body</description>
-            <content type="html"><![CDATA[<p><em>Photo: Anna off trail in the Jemez</em></p>
-
-<p>My body, yours<br />
-the forest floor<br />
-body of earth.</p>
-
-<p>High mountains<br />
-body of stone<br />
-left alone.</p>
-
-<p>Rock cañon<br />
-and a sheep skull, full curl<br />
-that nobody claimed.</p>
-
-<p>Calcium, schist to granite from magma<br />
-old cottonwood, sand<br />
-thirteen tracks of a roadrunner<br />
-disappearing into the <em>body of a desert.</em><br />
-Sagebrush. Chimayo. Chamisa. Conejos<br />
-river running<br />
-under a bridge.<br />
-Bosqué, cottonwoods, los alamos<br />
-huge valley, snow body<br />
-wide open, hot, steam from spring body—<br />
-but cold that same night on our bodies.</p>
-
-<p>Walking again, up the same way<br />
-but without a trail<br />
-to where we hid our bikes.<br />
-Riding in, then out<br />
-along a body<br />
-and in a body—<br />
-Being somebody?<br />
-Being nobody.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>A Handbook For Ethical Instagram Use</title>
-            <link>https://grassjournal.co/a-handbook-for-ethical-instagram-use/</link>
-            <pubDate>Mon, 29 Apr 2019 09:18:02 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/a-handbook-for-ethical-instagram-use/</guid>
-            <description>I started writing this out as a short post for Instagram.
+    </item>
+    
+    <item>
+      <title>A Handbook For Ethical Instagram Use</title>
+      <link>https://grassjournal.co/a-handbook-for-ethical-instagram-use/</link>
+      <pubDate>Mon, 29 Apr 2019 09:18:02 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/a-handbook-for-ethical-instagram-use/</guid>
+      <description>I started writing this out as a short post for Instagram.
 I decided to put it there &amp;amp; here, because I wanted to write a little more about each point.
 Ideas For Ethical Instagram Use 1. Consider why you are posting before you post 2. Do not attempt to make your life look enviable, or better than it is For some reason, this is almost the reason Instagram exists. I think it&amp;rsquo;s a harmful practice, and creates competition and instead of collaboration.</description>
-            <content type="html"><![CDATA[
-
-<p>I started writing this out as a short post for Instagram.</p>
-
-<p>I decided to put it there &amp; here, because I wanted to write a little more about each point.</p>
-
-<hr />
-
-<h2 id="ideas-for-ethical-instagram-use">Ideas For Ethical Instagram Use</h2>
-
-<h3 id="1-consider-why-you-are-posting-before-you-post">1. Consider why you are posting before you post</h3>
-
-<h3 id="2-do-not-attempt-to-make-your-life-look-enviable-or-better-than-it-is">2. Do not attempt to make your life look enviable, or better than it is</h3>
-
-<p>For some reason, this is almost the reason Instagram exists. I think it&rsquo;s a harmful practice, and creates competition and instead of collaboration.</p>
-
-<h3 id="3-do-not-use-geotags-also-consider-why-you-want-to-geotag">3. Do not use geotags (also, consider why you want to geotag)</h3>
-
-<p>People argue there are ethical ways to geotag. I disagree. There are too many people using Instagram, and the algorithms are too successful  at funneling likes and views to already overpopular things. Just leave them off.</p>
-
-<h3 id="4-think-collaborative-not-competitive">4. Think: collaborative, not competitive!</h3>
-
-<h3 id="5-treat-people-as-people-not-potential-audience-or-customers">5. Treat people as people, not potential audience or customers</h3>
-
-<p>It is truly the age of the Artist Entrepreneur. We have become our own platforms. We must do everything from conceptualizing, to marketing, to shipping. This can drive people to treat others as potential audience rather than just human beings. It turns each of us into agents—for ourselves. While this approach might be effective, I believe it undermines our common humanity.</p>
-
-<h3 id="6-do-not-align-your-self-worth-with-how-much-people-like-you-in-other-words-work-on-self-compassion-not-self-esteem">6. Do not align your self-worth with how much people like you. In other words, work on self-compassion, not self-esteem.</h3>
-
-<p>In &ldquo;Fearless Heart&rdquo; Thupten Jingpa, the translator for the Dalai Lama, argues that self-esteem and self-compassion are two different things. Self-esteem is fragile because it is often attached to success, or external circumstances. Self-compassion is self love. And love means acceptance. Self-esteem has something to prove. Self-love is simply an embracing of all things, ideal, or unideal.</p>
-
-<h3 id="7-fully-completely-deeply-consider-your-impact">7. Fully/completely/deeply consider your impact</h3>
-
-<p>Instagram affects the real world, even though we don&rsquo;t see it directly.</p>
-
-<h3 id="8-limit-use-to-a-healthy-level">8. Limit use to a healthy level</h3>
-
-<p>There are timers, usually called Digital Wellbeing, available on most smartphones now. Use them!</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Slow</title>
-            <link>https://grassjournal.co/slow/</link>
-            <pubDate>Sun, 28 Apr 2019 18:12:14 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/slow/</guid>
-            <description>A long time ago I wrote every day for a year. That blog was called Slow Gospel.
+    </item>
+    
+    <item>
+      <title>Slow</title>
+      <link>https://grassjournal.co/slow/</link>
+      <pubDate>Sun, 28 Apr 2019 18:12:14 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/slow/</guid>
+      <description>A long time ago I wrote every day for a year. That blog was called Slow Gospel.
 Slow Gospel offered a space where people could slow down, even for a moment.
 The entries were brief, not longer than 500 words.
 That was back in 2012. Things were already humming along pretty quickly back then in the big old world.
 After a year I took the site down. It did not gain an audience as I hoped it would.</description>
-            <content type="html"><![CDATA[<p>A long time ago I wrote every day for a year. That blog was called Slow Gospel.</p>
-
-<p>Slow Gospel offered a space where people could slow down, even for a moment.</p>
-
-<p>The entries were brief, not longer than 500 words.</p>
-
-<p>That was back in 2012. Things were already humming along pretty quickly back then in the big old world.</p>
-
-<p>After a year I took the site down. It did not gain an audience as I hoped it would. So it lost meaning for me to write it.</p>
-
-<p>At one point, I wanted to write longer things. I had an idea that writing longer meant I would eventually write a book.</p>
-
-<p>I thought longer writing meant the writing was more sophisticated and meant more, even though I knew simplicity was actually complex, and multilayered, hitched to everything if done right.</p>
-
-<p>I didn&rsquo;t expect to turn aside from that route, and begin writing even shorter than before. Distilling experiences, thoughts, feelings down to a few lines.</p>
-
-<p>And now I feel the urge to write shorter and shorter.</p>
-
-<p>I want to think about people, not about problems. What are people attracted to? What gives a sense of relief?</p>
-
-<p>Pounding down on the problems of the world creates more problems. It&rsquo;s like weeding. Remove a plant, and there is space for another. The weeds will never end.</p>
-
-<p>I&rsquo;ll cook them for my meal.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>The Hardest Work</title>
-            <link>https://grassjournal.co/the-hardest-work/</link>
-            <pubDate>Wed, 10 Apr 2019 19:12:33 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/the-hardest-work/</guid>
-            <description>Photo above by Demetria Provatas, me above the Hudson River in New York
+    </item>
+    
+    <item>
+      <title>The Hardest Work</title>
+      <link>https://grassjournal.co/the-hardest-work/</link>
+      <pubDate>Wed, 10 Apr 2019 19:12:33 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/the-hardest-work/</guid>
+      <description>Photo above by Demetria Provatas, me above the Hudson River in New York
 I&amp;rsquo;ll admit that I feel my work over the last year, and maybe longer, has been dark. It&amp;rsquo;s been some dark times lately, for many people. And my own individual suffering was increased by a series of mistakes I made that resulted in an abusive situation I had a difficult time extracting myself from.
 I&amp;rsquo;m not asking anyone to listen to the difficulties, as I have had several willing and loving friends and family members to listen.</description>
-            <content type="html"><![CDATA[<p><em>Photo above by Demetria Provatas, me above the Hudson River in New York</em></p>
-
-<p>I&rsquo;ll admit that I feel my work over the last year, and maybe longer, has been dark. It&rsquo;s  been some dark times lately, for many people. And my own individual suffering was increased by a series of mistakes I made that resulted in an abusive situation I had a difficult time extracting myself from.</p>
-
-<p>I&rsquo;m not asking anyone to listen to the difficulties, as I have had several willing and loving friends and family members to listen. It&rsquo;s strange though, how after leaving a traumatic situation, it still can haunt your waking and dreaming for months and even years. I guess for some it can take the form of a permanent illness.</p>
-
-<p>I want to turn a corner, though. I have lately been thinking about what I am <strong>For</strong> rather than <strong>Against</strong>. And in the midst of difficulties, as the result of mistakes, a person can learn a lot. I have often wondered why the route I chose over the last span of lifetime has been so hard on myself: isolating, threadbare, tumultuous, uncertain: you name it, I&rsquo;ve probably been through it. I have a theory that it has been a kind of Jedi training, to strip away all that is unnecessary.</p>
-
-<p>When I look in the mirror, I see a changed person. Nowadays, a rather dried out, tanned one, from the New Mexico climate. But there is rigidity in my face and a quiet depth in my eyes that may not have been so clear before. There is also light and warmth. I think the laying-on of sufferings of late has indeed changed me. But the goodness and light I have been given will win out in the end.</p>
-
-<p>No, I&rsquo;m not a victim. I made all the choices I made, with awareness there would be a a certain result, and that is a privilege. Some have no choices at all.</p>
-
-<p>Since I still have choice and will, and strength, energy, and light left in me, I, by code of my own ethics, must use it for good. I have such a hard time trying to understand that though. It is so hard to &ldquo;help.&rdquo; It is so hard to know how to say things to people that are both understanding yet challenging. And in the end, should I be the one challenging, understanding, doing good, &ldquo;helping?&rdquo;</p>
-
-<p>If I could summarize it all and what I want to do about it, it would be in this book, this beast, this long line of words I&rsquo;m trying to publish: A Body of Water. I think it&rsquo;s my best work yet, and is the closest I&rsquo;ve come to &ldquo;helping&rdquo; anything. I really believe in it.</p>
-
-<p>I always come back to something my mom says, again and again: &ldquo;The hardest work is the work we do on ourselves.&rdquo; It&rsquo;s true, because <em>our self</em> shapes the world. Not just through actions, but through view. Our Self is what looks out on Earth, has all these thoughts, divines right from wrong, in our own conduct and others. So I am happy to say, that the work I have done has been the hardest work. The work on myself.</p>
-
-<p>All for now,</p>
-
-<p>— hudson</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Grass Roundup No. 1</title>
-            <link>https://grassjournal.co/grass-roundup-no.-1/</link>
-            <pubDate>Mon, 08 Apr 2019 14:20:59 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/grass-roundup-no.-1/</guid>
-            <description>Happy April everyone, it&amp;rsquo;s the season of impatience and unpredictable weather. This is the first Grass Roundup of the things I&amp;rsquo;ve written or consumed this month. Read on for the fresh grass scent of new days and things.
+    </item>
+    
+    <item>
+      <title>Grass Roundup No. 1</title>
+      <link>https://grassjournal.co/grass-roundup-no.-1/</link>
+      <pubDate>Mon, 08 Apr 2019 14:20:59 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/grass-roundup-no.-1/</guid>
+      <description>Happy April everyone, it&amp;rsquo;s the season of impatience and unpredictable weather. This is the first Grass Roundup of the things I&amp;rsquo;ve written or consumed this month. Read on for the fresh grass scent of new days and things.
 Watching Firstly, a new channel by the Criterion Collection. If you&amp;rsquo;re not already an obscure film junky, you could easily become one. Before now, Criterion Collection films were only available on clunky, archaic DVD discs.</description>
-            <content type="html"><![CDATA[
-
-<p>Happy April everyone, it&rsquo;s the season of impatience and unpredictable weather. This is the first Grass Roundup of the things I&rsquo;ve written or consumed this month. Read on for the fresh grass scent of new days and things.</p>
-
-<h2 id="watching"><strong>Watching</strong></h2>
-
-<p>Firstly, <a href="http://criterionchannel.com">a new channel</a> by the Criterion Collection. If you&rsquo;re not already an obscure film junky, you could easily become one. Before now, Criterion Collection films were only available on clunky, archaic DVD discs. Now you can watch almost the whole collection on your phone!</p>
-
-<h3 id="my-film-picks">My Film Picks</h3>
-
-<p><a href="https://www.criterionchannel.com/sanjuro">Sanjuro</a><br />
- A threadbare old ronin helps young warriors in need. Action/Drama.</p>
-
-<p><a href="https://www.criterionchannel.com/videos/cleo-from-5-to-7">Cléo from 5 to 7</a><br />
-Portrait of a famous singer in Paris as she awaits the results of a biopsy. Slice of life.</p>
-
-<p><a href="https://www.criterionchannel.com/il-sorpasso">Il Sorpasso</a><br />
-A young student of law takes an unexpected road trip from Rome to Tuscany. Comedy.</p>
-
-<h2 id="listening"><strong>Listening</strong></h2>
-
-<p>I&rsquo;ve been throwing together a <a href="https://open.spotify.com/user/hudsongardner/playlist/0OLoaXxQ4medCXeDu7s1Ze?si=rd1qBi4-S_mYIPxSOz2hVg">🌴🏝</a> playlist. Not done yet but maybe fun to watch the progress. (Click the trees)</p>
-
-<h2 id="writing"><strong>Writing</strong></h2>
-
-<p>I wrote a poem yesterday, and an essay today. Here&rsquo;s the poem—</p>
-
-<p><em>Song of the canyon wren</em><br />
-<em>drips, then slides down a rock.</em><br />
-<em>Smooth, like passing water.</em><br />
-<em>A little voice, amidst voices.</em><br />
-<em>The center of this moment, and everywhere.</em><br />
-<em>Holding it all together.</em></p>
-
-<h2 id="grass-index"><strong>Grass Index</strong></h2>
-
-<p>On the Grass Journal there are a lot of new things, if you haven&rsquo;t looked lately —</p>
-
-<p>My most popular post so far, may also be the <a href="https://grassjournal.co/instagram">most maligned</a></p>
-
-<p>An article summary, and <a href="https://grassjournal.co/filling-the-void">some of my own thoughts</a> about addiction</p>
-
-<p>A <a href="https://grassjournal.co/scones/">delicious scone recipe</a> from my girlfriend Anna</p>
-
-<h2 id="i-m-trying-to-publish-a-book"><strong>I&rsquo;m Trying To Publish A Book</strong></h2>
-
-<p>I am in the process of submitting my manuscript, A Body of Water, to publishers. If you know of a press that publishes full length poetry, written in a narrative format that flows from beginning to end, and has themes of deep ecology and spirituality (but not religion), then let me know.</p>
-
-<p>That&rsquo;s it for this fortnight. Thank you for reading!</p>
-
-<p>- Hudson</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Lemon Currant Scones Of Life</title>
-            <link>https://grassjournal.co/scones/</link>
-            <pubDate>Thu, 04 Apr 2019 03:53:50 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/scones/</guid>
-            <description>These buckwheat-oatmeal scones are surprisingly delicious. Buckwheat lends a cake-like texture and roasty flavor. Additions: toasted nuts, sesame seeds, or whatever you want. Recipe by Anna.
+    </item>
+    
+    <item>
+      <title>Lemon Currant Scones Of Life</title>
+      <link>https://grassjournal.co/scones/</link>
+      <pubDate>Thu, 04 Apr 2019 03:53:50 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/scones/</guid>
+      <description>These buckwheat-oatmeal scones are surprisingly delicious. Buckwheat lends a cake-like texture and roasty flavor. Additions: toasted nuts, sesame seeds, or whatever you want. Recipe by Anna.
 DRY ⁘ 2 cups chosen flours (I used ¾ whole wheat, 1&amp;frasl;4 buckwheat)
 ⁘ 2 handfuls of oats
 ⁘ 1&amp;frasl;2 tsp salt
 ⁘ 1 tsp baking powder
 ⁘ Currants to taste (soak awhile in hot water)
 ⁘ 1 stick cold butter (cut into dry ingredients)</description>
-            <content type="html"><![CDATA[
-
-<p>These buckwheat-oatmeal scones are surprisingly delicious. Buckwheat lends a cake-like texture and roasty flavor. Additions: toasted nuts, sesame seeds, or whatever you want. Recipe by <a href="http://annakoenigart.com">Anna</a>.</p>
-
-<h3 id="dry">DRY</h3>
-
-<p><strong>⁘ 2 cups</strong> chosen flours (I used ¾ whole wheat, <sup>1</sup>&frasl;<sub>4</sub> buckwheat)<br />
- <strong>⁘ 2 handfuls</strong> of oats<br />
-<strong>⁘ <sup>1</sup>&frasl;<sub>2</sub> tsp</strong> salt<br />
-<strong>⁘ 1 tsp</strong> baking powder<br />
-<strong>⁘</strong> Currants to taste (soak awhile in hot water)<br />
-<strong>⁘ 1 stick</strong> cold butter (cut into dry ingredients)</p>
-
-<h3 id="wet">WET</h3>
-
-<p><strong>⁘ Large spoonful</strong> of sourdough starter (dissolve in milk)<br />
-<strong>⁘ <sup>1</sup>&frasl;<sub>2</sub> cup</strong> milk<br />
-<strong>⁘ 1 large</strong> egg<br />
-<strong>⁘ <sup>1</sup>&frasl;<sub>3</sub> cup</strong> sugar (or to taste)<br />
-<strong>⁘</strong> zest of a lemon</p>
-
-<hr />
-
-<h2 id="method">Method</h2>
-
-<p>Add wet ingredients to dry<br />
-Mix til combined, but don’t overdo  (this helps keep the crumb cake-like—over stirring will toughen the dough)</p>
-
-<p>Pat into fat disc and put wrapped in fridge for awhile<br />
-Shape desired thickness<br />
-Cut into squares / triangles / what have you<br />
-Oven at 400+ until bottoms are browned</p>
-
-<hr />
-
-<p><img src="/img/19.03-oatmeal-scones-2.jpg" alt="" /></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Late Dinner (Recipe)</title>
-            <link>https://grassjournal.co/late-dinner-recipe/</link>
-            <pubDate>Sun, 31 Mar 2019 20:45:19 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/late-dinner-recipe/</guid>
-            <description>Crackly-Toasted Late Dinner Rice 😱 Rice  2 cups short grain white rice
+    </item>
+    
+    <item>
+      <title>Late Dinner (Recipe)</title>
+      <link>https://grassjournal.co/late-dinner-recipe/</link>
+      <pubDate>Sun, 31 Mar 2019 20:45:19 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/late-dinner-recipe/</guid>
+      <description>Crackly-Toasted Late Dinner Rice 😱 Rice  2 cups short grain white rice
  Water, to cover rice to a depth of 1&amp;rdquo; (or consult your rice cooker instructions)  Toppings  2 tbsp butter
  1 tbsp good soy sauce (san j, ohsawa)
  2 cloves garlic, smashed &amp;amp; chopped
  2 thinly sliced scallions  Method Put the rice and water in a pan, cover and bring to a boil.</description>
-            <content type="html"><![CDATA[
-
-<p><img src="/img/19.03.31-Acequia.Snow.2.jpg" alt="" /></p>
-
-<p><img src="/img/19.03.31-Acequia.Snow.3.jpg" alt="" /></p>
-
-<p><img src="/img/19.03.31-Acequia.Snow.4.jpg" alt="" /></p>
-
-<p><img src="/img/19.03.31-Acequia.Snow.5.jpg" alt="" /></p>
-
-<p><img src="/img/19.03.31-Acequia.Snow.6.jpg" alt="" /></p>
-
-<p><img src="/img/19.03.31-Acequia.Snow.7.jpg" alt="" /></p>
-
-<p><img src="/img/19.03.31-Acequia.Snow.8.jpg" alt="" /></p>
-
-<p><img src="/img/19.03.31-Acequia.Snow.9.jpg" alt="" /></p>
-
-<hr />
-
-<p><img src="/img/19.03.31-Rice.jpg" alt="Rice" /></p>
-
-<h1 id="crackly-toasted-late-dinner-rice">Crackly-Toasted Late Dinner Rice 😱</h1>
-
-<h2 id="rice">Rice</h2>
-
-<ul>
-<li><strong>2 cups</strong> short grain white rice<br /></li>
-<li><strong>Water</strong>, to cover rice to a depth of 1&rdquo; (or consult your rice cooker instructions)</li>
-</ul>
-
-<h2 id="toppings">Toppings</h2>
-
-<ul>
-<li><strong>2 tbsp</strong> butter<br /></li>
-<li><strong>1 tbsp</strong> good soy sauce (san j, ohsawa)<br /></li>
-<li><strong>2 cloves</strong> garlic, smashed &amp; chopped<br /></li>
-<li><strong>2</strong> thinly sliced scallions</li>
-</ul>
-
-<h2 id="method">Method</h2>
-
-<p>Put the rice and water in a pan, cover and bring to a boil. Once it has boiled, lower the heat and simmer for 15 min (or follow rice cooker instructions).</p>
-
-<p><strong>Note</strong>: The rice should turn out a little dry, and crackly on the bottom. If you want to skip this, just make it normally.</p>
-
-<p>While the rice is cooking, add the butter to a small pan over medium heat and melt. Add the chopped garlic, and cook, stirring, until fragrant. Then add the soy sauce, and stir well, caramelizing it. Turn off once ingredients are well incorporated.</p>
-
-<p>Check the rice. If it has begun to crackle and smell toasty, it&rsquo;s ready. At this point, its up to you how long you want to cook it. Longer = Drier.</p>
-
-<p>Serve rice in bowls with sauce spooned over the top. Garnish with scallions. If you&rsquo;re hungry, add a 6 minute egg.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Slaying The Instagram Beast</title>
-            <link>https://grassjournal.co/instagram/</link>
-            <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-            
-            <guid>https://grassjournal.co/instagram/</guid>
-            <description>In the last seven years, permit applications for entry into a certain wilderness region in Washington have risen dramatically. In 2011 about 2,800 applications were received. But in 2018 the entries had increased to over 21,500. A similar trend has occurred in other wilderness areas across the USA. Suddenly, the amount of people going to very particular, even remote places, has exploded.
+    </item>
+    
+    <item>
+      <title>Slaying The Instagram Beast</title>
+      <link>https://grassjournal.co/instagram/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/instagram/</guid>
+      <description>In the last seven years, permit applications for entry into a certain wilderness region in Washington have risen dramatically. In 2011 about 2,800 applications were received. But in 2018 the entries had increased to over 21,500. A similar trend has occurred in other wilderness areas across the USA. Suddenly, the amount of people going to very particular, even remote places, has exploded.
 There are probably many reasons why this has happened—there is a positive trend of people getting outdoors more.</description>
-            <content type="html"><![CDATA[
-
-<p>In the last seven years, permit applications for entry into a certain wilderness region in Washington have risen dramatically. In 2011 about 2,800 applications were received. But in 2018 the entries had increased to over 21,500. A similar trend has occurred in other wilderness areas across the USA. Suddenly, the amount of people going to very particular, even remote places, has exploded.</p>
-
-<p>There are probably many reasons why this has happened—there is a positive trend of people getting outdoors more. However, for certain key zones, it seems more is going on than random chance coupled with an increased interest in going outside.</p>
-
-<p>In regards to the popularizing of places both wild and tamed many people have begun to point fingers at social media <a href="https://www.newyorker.com/magazine/2017/04/24/vanlife-the-bohemian-social-media-movement">influencers</a>. Influencers are essentially trendsetters with massive followings, sometimes hundreds of thousands of people. Over the last six years or so these influencers, particularly those who are #vanlife and outdoors based, began to drop into the &ldquo;most beautiful&rdquo; places, and exploit them for likes and follows—and even money (they are often sponsored)—by shooting nauseatingly beautiful, perfectly posed photos—photos so beautiful, that it&rsquo;s almost impossible for a viewer not to imagine themselves right there.</p>
-
-<h2 id="cyber-logging">CYBER LOGGING</h2>
-
-<p>These influencers nowadays would defend themselves to the end, mentioning that they practice leave no trace tagging principles (keep in mind: these principles appeared less than two years ago), and that &ldquo;bringing awareness&rdquo; to places is always positive. People, while on social media, tend to see the world with rose-colored glasses. The only way something can be bad is if you choose to view it as such. Maybe this is because it&rsquo;s very difficult to see your impacts in the physical world when you spend so much time and thought interacting with the digital. Being there, seeing the crowds, seeing the impact of hundreds of people walking on fragile ground, or converging on certain areas of towns, is a lot different than perfectly posed photos, cropped just enough to not show the crowds, or the impact, or the noise of hundreds of other people posing and taking photos.</p>
-
-<p><strong>In regards to the environment, and capitalism, I see this kind of exploitation of beauty for personal gain by brands and common people as one of the last frontiers of extraction.</strong> It&rsquo;s a kind of digital clearcutting. Regarding landscapes, since they have already been dammed, cut, and mined, the final frontier is the exploitation of their beauty for likes and shares.</p>
-
-<p>About a month ago, I made comments on a variety of Instagram influencer accounts that I felt made posts of this exploitative nature. In particular, they had all recently geotagged the above mentioned wilderness area in Washington. My post was something like &ldquo;Please stop using geotags in places like this for your personal instafame. They are being overrun by too much exposure.&rdquo; I got a variety of responses, most of them negative, with people lashing back at me. Some even took the time to find a single photo of mine from three years ago that I had geotagged. I realized, and already knew, that insults were not a good way to go about educating people. But, I was angry, and had been for a long time. It had finally boiled over.</p>
-
-<p>After reflecting for an afternoon, I realized I wasn&rsquo;t necessarily angry at those people for not examining their actions. I was angry at what Instagram has done to people, and at people&rsquo;s complicity.</p>
-
-<h2 id="the-beast">THE BEAST</h2>
-
-<p>I think Instagram has become a beast. A subtle beast, that dotes and fawns, making me feel better, making me feel like it&rsquo;s necessary—that if I didn&rsquo;t have it, I would be missing out. And I think a lot of people have been entrapped by its honey&rsquo;d barb.</p>
-
-<p>Over the last five years, I have often thought about deleting Instagram, but always stopped short. To me, it came down to the idea that without it, I wouldn&rsquo;t be able to keep in touch with certain people. Many of my friends post every day, and there is definite value in what they post: everything from their own creative work, to snapshots of their real life, to interesting things they want to share: things and thoughts I&rsquo;d never otherwise see. But after my uncharacteristic and ridiculous burst of anger at random people, I realized that I&rsquo;d had enough. For the time being, I was ready to let go of Instagram.</p>
-
-<h2 id="stepping-away">STEPPING AWAY</h2>
-
-<p>For the next month, I didn&rsquo;t login to my personal Instagram account a single time. I was surprised: I didn&rsquo;t even miss it. Not checking my phone first thing in the morning allowed me a wealth of free time. It was like a burden had been lifted. The post making, the replying to comments, the reaping of follows and likes: it all ended abruptly. I didn&rsquo;t feel like I had lost anything. Instead, I had gained: time, attention, and sanity.</p>
-
-<p>In the following weeks, I began writing letters to friends, because without Instagram, I no longer knew what they were up to. I read two books, Americanah (Aidiche), and Independent People (Laxness). I learned how to use Github, and coded the website you are reading this on by hand, a major advance in programming skills for me. I suddenly had so much more focus. I felt like a mist had been lifted from my eyes.</p>
-
-<h2 id="addiction">ADDICTION</h2>
-
-<p>The fact is, the moment a person touches the Instagram button on their phone, they have initiated a system that harnesses the deepest, most vulnerable part of their brain: the rewards system. You may be familiar with dopamine, the neurotransmitter that is at the core of the system. Everything from the little white heart icons that pop up on a red background, to the way the feed is organized by complex and addictive algorithms, has been engineered to be as seductive as possible: to produce dopamine in people&rsquo;s brains.</p>
-
-<p>I think seductive is a very important word here, because on the surface Instagram is so real (the content is from our friends) that it&rsquo;s hard to think of it as fake and bad. But in many ways, it is. But it&rsquo;s not bad like cigarettes. Instagram is far more skillful at making you addicted to it. It seduces you by making you think it&rsquo;s necessary, that without it you will be missing out. It leverages our needs for socializing, recognition, and stimulation, and turns them insatiable. Instagram is like water that quenches no thirst.</p>
-
-<h2 id="compassion">COMPASSION</h2>
-
-<p>Most people would say they waste time doing things they don&rsquo;t want to be doing. In this case, I don&rsquo;t mean obligations, but habits. It might be easy to ignore everything I&rsquo;ve said about Instagram so far, because it&rsquo;s easy to think that you are in control of what you&rsquo;re doing. However, anyone who has checked in even precursorily will know that is actually not true. For example, noticing the busy, somewhat uncontrollable nature of mind is one of the first insights of meditation practice. I would submit that Instagram, and maybe phone use in general, is one of those things that&rsquo;s hard to get clear on without close attention to habits. Are you using it, or vise versa?</p>
-
-<p><strong>I have a hypothesis that companies nowadays, and since advertising was invented, prey on this kind of difficulty of discerning good from bad.</strong> In an NYTimes article called The Cost of Paying Attention, Matthew Crawford claims that these days we even have to pay for silence. We have to pay not to be advertised to.</p>
-
-<blockquote>
-<p><em>Silence is now offered as a luxury good. In the business-class lounge at Charles de Gaulle Airport, I heard only the occasional tinkling of a spoon against china. I saw no advertisements on the walls. This silence, more than any other feature, is what makes it feel genuinely luxurious. When you step inside and the automatic doors whoosh shut behind you, the difference is nearly tactile, like slipping out of haircloth into satin. Your brow unfurrows, your neck muscles relax; after 20 minutes you no longer feel exhausted.</em></p>
-
-<p><em>Outside, in the peon section, is the usual airport cacophony. Because we have allowed our attention to be monetized, if you want yours back you’re going to have to pay for it.</em></p>
-</blockquote>
-
-<p>Another key idea drawn from his writing, and my own experience: Resisting impulses takes effort.</p>
-
-<blockquote>
-<p><em>What if we saw attention in the same way that we saw air or water, as a valuable resource that we hold in common? Perhaps, if we could envision an “attentional commons,” then we could figure out how to protect it.</em></p>
-
-<p><em>The sad state of this commons is on display everywhere; consider the experience of being in an airport. I have found I have to be careful when going through airport security, because the trays that you place your items in for X-ray screening are now papered with advertisements, and it’s very easy to miss a lipstick-size flash memory stick against a picture of fanned-out L’Oréal lipstick colors.</em></p>
-
-<p><em>I am already in a state of low-level panic about departure times, possible gate changes and any number of other contingencies. This fresh demand for vigilance, lest I lose the PowerPoint slide show I will be presenting in a few hours, feels like a straightforward conflict between me and L’Oréal.</em></p>
-</blockquote>
-
-<p>I think these compounding factors may be why I personally have had such a hard time focusing, reading books, etc when I was using Instagram daily. Every moment I was doing something &ldquo;less interesting&rdquo; (according to the dopamine-based rewards system) my mind would tell me to pick up my phone: there&rsquo;s something more stimulating there!</p>
-
-<h2 id="lacking-something">LACKING SOMETHING</h2>
-
-<p>These thoughts so far have been drawn from my personal experience of using Instagram as a photographer and writer for about seven years. My experience has most likely been different than yours. For me, Instagram was initially a replacement for Flickr—a place to share my work. But I realized recently that Flickr was not only empurposed with the idea of sharing photos—it was about community and recognition too, at least for me. And online communities have often filled in for real-life communities that I&rsquo;ve lacked.</p>
-
-<p>The lack of something is a powerful motivator. Feeling a hole, a space that was once filled and is now empty, can compel massive effort. Relationships with other people, for example, are often both the hardest and most rewarding things in our lives. They are hard because we need them for our wellbeing, yet they take effort. They are rewarding because effort deepens them.</p>
-
-<p>In my opinion, Instagram at its core is a panderer of illusory relationships. It makes one feel connected, while actually disconnecting people from the present. It makes one feel involved and accepted, but actually dis-involves, and perpetuates an insatiable need for recognition. Your mileage my vary, however, anecdotally, I have heard a lot of people echoing these same thoughts. But the way friends talk about it is more a vague uneasiness, like they are not really sure what to think of it. Their view of it sways from being terrible to wonderful. In other words, a relationship with Instagram for some can take on the hallmarks of an addiction. Something that is both loathed and loved, with obvious shortcomings, but that for some reason cannot be expelled.</p>
-
-<h2 id="how-it-all-began">HOW IT ALL BEGAN</h2>
-
-<p>Back when Instagram first launched, it was innocent enough. There were no sneaky algorithms, stories, geotags, suggested followers, ads (remember that?!), influencers&hellip; etc. It was a simple platform for sharing, used by creative people. The platform itself wasn&rsquo;t designed to be addictive. It wasn&rsquo;t based on fame and capitalism. It was a like a screwdriver. It was a simple tool.</p>
-
-<p>When Facebook acquired the company for $1,000,000,000 on April 9, 2012, everything changed. And now, six-ish years later, all the original founders of Instagram <a href="https://www.washingtonpost.com/technology/2018/11/14/quitting-instagram-shes-one-millions-disillusioned-with-social-media-she-also-helped-create-it/?noredirect=on&amp;utm_term=.5bc33b1c3f3b">have quit</a>, and some of the original employees have deleted their accounts. I think that&rsquo;s all I need to say about that.</p>
-
-<h2 id="the-end">THE END</h2>
-
-<p>I have now been off Instagram for almost two months. Apart from my first day off the platform, I haven&rsquo;t received a single message saying that someone has missed my presence there. Coming from posting almost every day, for almost five years, it makes ya think&hellip; how much value was I really adding to people&rsquo;s lives? How much was I receiving? What could I have been doing with that time, and energy? In the time since signing off, as I mentioned before, it seems like I could have been doing a lot. Or, maybe, less. Just enjoying the present moment with a cup of tea, a good book, and occasional glances out the window.</p>
-
-<hr />
-
-<h2 id="afterword">AFTERWORD</h2>
-
-<p>This morning I woke up and toasted a batch of millet and oats in a small pan I took from my grandmother&rsquo;s house after she died. I added some toasted sesame seeds and some whole milk, along with some raisins and a few grains of salt, sat down, and turned on a <a href="https://onbeing.org/programs/teju-cole-sitting-together-in-the-dark-feb2019/">podcast interview</a> with Teju Cole. Teju, ever since I found out about him, has been a person I&rsquo;ve felt a deep kinship with—someone who is willing to stand on the edge and look at everything, alone. And in the interview, he said just that—</p>
-
-<blockquote>
-<p>Right, but being “woke” is also different from waking up, because it’s a performing — knowing the right things to say so that you don’t get attacked. But the responsibility actually goes deeper than that — like, what does it mean to seek justice?</p>
-
-<p>So I think about that in relation to [James Baldwin], and it connects to a further thought, which is that in his lifetime he had this early success, and then he lived — he didn’t live long enough, but he lived into some — a bit of old age. He really fell out of favor. He was sort of set up for it: He was black, grew up poor. He was queer, and he was independent-minded. White people attacked him. Black people attacked him. People thought he wasn’t going far enough in his radical ideas. People thought he was going too far. It was incredibly stressful. He couldn’t live here. And it wasn’t only because of racism. It was also because people on the left were attacking him.</p>
-
-<p>So I think what I learned the most from him is not that you can mine his work and find the quote that fits our progressive positions, but what I learned from him is that <strong>taking truly progressive positions can be devastatingly isolating</strong>. If everyone is woke, you may be called on to be something else, something a bit more difficult than that. If we live in an environment where we take the “right” opinion for granted as a given — “Oh, everybody knows that” — maybe you’re called on to explore the ideas that not everybody knows.</p>
-</blockquote>
-
-<p>— Teju Cole</p>
-
-<p>I wanted to share this excerpt because it hit home for me so deeply, I cried. I feel like, for so long, I have been on the edge of things, looking in. The words I wrote above, about Instagram, is just a recent thing I&rsquo;ve noticed of so many. However, I have waited over a month after writing it to publish it, because I know that a lot of people think I&rsquo;m wrong, will take it personally, or think that I am just a fool with an axe to grind. Or maybe, I&rsquo;m the only person who has problems with social media. That&rsquo;s often how it feels. Isolating.</p>
-
-<p>The last thing I want to say is: I don&rsquo;t think the problems of the world, such as Instagram, can be dismantled by fear-based anger. Fear based anger often motivates a lot of what people do, it&rsquo;s a compelling reason after all: as I mentioned before about the idea of Lacking Something—fear can be the motivator to pre-empt a future lack via action. I have been the victim of fear based anger, particularly with my commenting on Influencers accounts mentioned above. I fear a loss of wild places. But my fear will not drive wise actions. I have to step back and take stock of everything, and then act.</p>
-
-<p>I guess this writing, this thinking, is my best shot at that, for now.</p>
-
-<p>Thank you for reading ~</p>
-
-<p><em>I think it&rsquo;s worth noting that Teju Cole used to post every day, many times per day, on Instagram. On checking today, his last post was December 26th, 2018</em></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Spring</title>
-            <link>https://grassjournal.co/spring/</link>
-            <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-            
-            <guid>https://grassjournal.co/spring/</guid>
-            <description>There was a gap in a leafy hedge
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://grassjournal.co/spring/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/spring/</guid>
+      <description>There was a gap in a leafy hedge
 and I watched as a little bird flew in.
 Spring rises
 like a green mist, up from the ground.
@@ -815,102 +284,33 @@ like spring does.
 Always something coming back from something
 the beat of a stone, two thumps—
 the old heart again.</description>
-            <content type="html"><![CDATA[<p>There was a gap in a leafy hedge<br />
-and I watched as a little bird flew in.<br />
-Spring rises<br />
-like a green mist, up from the ground.<br />
-Water is liquid, and comes back from where it was<br />
-like spring does.<br />
-Always something coming back from something<br />
-the beat of a stone, two thumps—<br />
-the old heart again.</p>
-
-<p><img src="/img/18.12.27-forest-park.jpg" alt="18.12.27-forest-park" /></p>
-
-<p><img src="/img/18.12.27-west-hills.jpg" alt="18.12.27-west-hills" /></p>
-
-<p><img src="/img/18.12.27-rose-garden.jpg" alt="" /></p>
-
-<p><img src="/img/18.12.27-rhododendron.jpg" alt="" /></p>
-
-<p><img src="/img/18.12.27-rose-garden-2.jpg" alt="" /></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Filling The Void</title>
-            <link>https://grassjournal.co/filling-the-void/</link>
-            <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-            
-            <guid>https://grassjournal.co/filling-the-void/</guid>
-            <description>About twelve years ago, when I was 18, I wound up in college. I remember lots of things from those times, but I often remember hearing how awkward everything was. Maybe it was a buzzword back in those years. I just remember the word being appended to almost every sentence any of my peers uttered. &amp;ldquo;Isn&amp;rsquo;t that awkward,&amp;rdquo; they would say, about having to talk to a teacher after class.</description>
-            <content type="html"><![CDATA[
-
-<p>About twelve years ago, when I was 18, I wound up in college. I remember lots of things from those times, but I often remember hearing how awkward everything was. Maybe it was a buzzword back in those years. I just remember the word being appended to almost every sentence any of my peers uttered. &ldquo;Isn&rsquo;t that awkward,&rdquo; they would say, about having to talk to a teacher after class. &ldquo;He&rsquo;s so awkward,&rdquo; about a student whose voice cracked when asking a question. Etcetera.</p>
-
-<p>It struck me as weird that common, everyday scenarios were considered awkward. I figured awkwardness would pass with time. I felt awkward myself. But one place I differed from my peers was that I wasn&rsquo;t into parties that much, and therefore not into drinking. But when I did go to parties, I&rsquo;d sit in a corner and mostly observe what was happening.</p>
-
-<p>From this lonely corner, I came to view alcohol as a social crutch, used to ease all this apparent awkwardness. And for some reason, after that first semester, I decided that I wanted to be OK without crutches—completely OK on my own, without substances to calm me down. No one told me to be that way. And it cost me a lot in terms of social aptitude: most of my friends wanted to go out and get drinks. You may not know this, but, if you&rsquo;re the only person not drinking, the situation is usually not that fun. There&rsquo;s also a pretty high chance you&rsquo;ll be derided by your peers.</p>
-
-<p>Nowadays, most of my peers have grown up and don&rsquo;t drink often. I think many of them think about their health, and may not need alcohol to smooth things out these days. But there are others—some who need it still, and some who got habitually trapped, and drink out of habit or addiction. But I still have many questions about those earlier years. Why can some people can drink, yet make it out of the awkward phase without bad habits or addiction? Why do some feel a need to abstain totally (me)? And why do yet others get addicted?</p>
-
-<p>I have been thinking about the state of society for a long time. I guess it&rsquo;s something I can&rsquo;t stop thinking about. I thought I would have figured it out by now, or given up, but so far neither of those things have happened. However, in regards to some of these questions about addiction and awkwardness , I read an incredible article recently. It&rsquo;s called <a href="https://thesunmagazine.org/issues/519/filling-the-void">Filling The Void</a> by psychologist Bruce K. Alexander. His work offers some alarming insights about the nature of addiction, namely, that it isn&rsquo;t inherent to us as beings.</p>
-
-<p>In my experiences it&rsquo;s generally accepted that humans are prone to addiction. Addiction is seen as a powerful, dark force we have to resist at all times. But Alexander&rsquo;s research shows that addiction comes from something else, a collection of conditions that political economist Karl Polyani called <strong>dislocation.</strong></p>
-
-<blockquote>
-<p><strong>Chevalier</strong>: So if addiction doesn’t arise from properties of the drug itself, what causes it?</p>
-
-<p><strong>Alexander</strong>: Drug addiction of all kinds arises primarily from the relentlessly increasing dislocation in our society.</p>
-
-<p><strong>Chevalier</strong>: What do you mean by “dislocation”?</p>
-
-<p><strong>Alexander</strong>: It’s a word political economist Karl Polanyi used to describe alienation or disconnection, a state of being ungrounded and ill at ease. People are dislocated when their vital needs for individual autonomy and belonging are unmet. Dislocated people don’t have a place in the established social order, and they fill that void with addiction. For instance, some young people can’t stop playing video games, because a virtual fantasy world provides the excitement, identity, and meaning that are lacking in their actual world.</p>
-
-<p><strong>Chevalier</strong>: What causes all this dislocation?</p>
-
-<p><strong>Alexander</strong>: The social and political system past generations struggled to create has been twisted into a cruel and stupid imperial system dominated by multinational corporations. This is hard for people to admit. Who can bear to face the fact that the consumer society we were raised to cherish is actually making us apathetic, crazy, and vulnerable to addiction? The disconnected, fragmented nature of our culture causes addiction, which causes further fragmentation. Most serious addictions are actually an adaptation to dislocation. To some extent addiction is a functional way of dealing with the problem. Of course, what people really need is to be genuinely recognized and accepted and believed in — to have a purpose.</p>
-</blockquote>
-
-<p>As a follow up to this, I&rsquo;m writing a post about why I quit Instagram. You can read more soon enough. But for now I really recommend you read the article quoted above (link also below), and consider the subtle ways a person can be addicted to things.</p>
-
-<h2 id="filling-the-void-bruce-k-alexander-on-the-nature-of-addiction-https-thesunmagazine-org-issues-519-filling-the-void"><a href="https://thesunmagazine.org/issues/519/filling-the-void">Filling The Void — Bruce K Alexander on the nature of addiction</a></h2>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Shiso Water</title>
-            <link>https://grassjournal.co/shiso-water/</link>
-            <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/shiso-water/</guid>
-            <description>Shiso Water  1-2 Shiso Leaves 1” wide slice of lemon Boiling water  I like to make this water in the morning, before eating or drinking anything. Squeeze the lemon juice into a glass, add the leaves, and pour the water over. I’m not fully convinced about the idea of alkalizing the body through diet, however I feel like a sour drink early in the morning can relieve sugar cravings, and also improve digestion through stimulating the gallbladder.</description>
-            <content type="html"><![CDATA[
-
-<h3 id="shiso-water">Shiso Water</h3>
-
-<ul>
-<li>1-2 Shiso Leaves</li>
-<li>1” wide slice of lemon</li>
-<li>Boiling water</li>
-</ul>
-
-<p>I like to make this water in the morning, before eating or drinking anything. Squeeze the lemon juice into a glass, add the leaves, and pour the water over. I’m not fully convinced about the idea of alkalizing the body through diet, however I feel like a sour drink early in the morning can relieve sugar cravings, and also improve digestion through stimulating the gallbladder.</p>
-
-<p>Shiso (紫蘇) is also called beefsteak (?? no idea why) or perilla. It is kind of like a Japanese basil, but it comes from China originally. It is known as being very nutritious. It is used in the pickling of ume plums, and lends a pink-red color to anything it touches when wet.</p>
-
-<p>紫: purple
-蘇: to be resurrected, revived, rehabilitated</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>My Way Of Explaining</title>
-            <link>https://grassjournal.co/my-way-of-explaining/</link>
-            <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
-            
-            <guid>https://grassjournal.co/my-way-of-explaining/</guid>
-            <description>The whole problem of existence
+    </item>
+    
+    <item>
+      <title>Filling The Void</title>
+      <link>https://grassjournal.co/filling-the-void/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/filling-the-void/</guid>
+      <description>About twelve years ago, when I was 18, I wound up in college. I remember lots of things from those times, but I often remember hearing how awkward everything was. Maybe it was a buzzword back in those years. I just remember the word being appended to almost every sentence any of my peers uttered. &amp;ldquo;Isn&amp;rsquo;t that awkward,&amp;rdquo; they would say, about having to talk to a teacher after class.</description>
+    </item>
+    
+    <item>
+      <title>Shiso Water</title>
+      <link>https://grassjournal.co/shiso-water/</link>
+      <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/shiso-water/</guid>
+      <description>Shiso Water  1-2 Shiso Leaves 1” wide slice of lemon Boiling water  I like to make this water in the morning, before eating or drinking anything. Squeeze the lemon juice into a glass, add the leaves, and pour the water over. I’m not fully convinced about the idea of alkalizing the body through diet, however I feel like a sour drink early in the morning can relieve sugar cravings, and also improve digestion through stimulating the gallbladder.</description>
+    </item>
+    
+    <item>
+      <title>My Way Of Explaining</title>
+      <link>https://grassjournal.co/my-way-of-explaining/</link>
+      <pubDate>Fri, 08 Mar 2019 13:12:05 -0700</pubDate>
+      
+      <guid>https://grassjournal.co/my-way-of-explaining/</guid>
+      <description>The whole problem of existence
 is that we are are like a river, but not
 minds always flowing
 restless, unable to stop.
@@ -927,180 +327,48 @@ It’s cold, this water.
 It will wake you up.
 This river is you, and me.
 The water is your mind.</description>
-            <content type="html"><![CDATA[<p>The whole problem of existence<br />
-is that we are are like a river, but not<br />
-minds always flowing<br />
-restless, unable to stop.</p>
-
-<p>Sit<br />
-by a river<br />
-with me.<br />
-See how the water<br />
-moves.<br />
-Touches<br />
-one thing, goes on.<br />
-Rest<br />
-in a deep pool, behind a log.</p>
-
-<p>It’s cold, this water.<br />
-It will wake you up.<br />
-This river is you, and me.<br />
-The water is your mind.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>A Story About A Meditation Retreat, #3</title>
-            <link>https://grassjournal.co/meditation-03/</link>
-            <pubDate>Sun, 03 Mar 2019 08:02:30 +0000</pubDate>
-            
-            <guid>https://grassjournal.co/meditation-03/</guid>
-            <description>&amp;ldquo;Is there something you want badly?&amp;rdquo; he asked.
+    </item>
+    
+    <item>
+      <title>A Story About A Meditation Retreat, #3</title>
+      <link>https://grassjournal.co/meditation-03/</link>
+      <pubDate>Sun, 03 Mar 2019 08:02:30 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/meditation-03/</guid>
+      <description>&amp;ldquo;Is there something you want badly?&amp;rdquo; he asked.
 And she replied almost greedily, gasping for breath: &amp;ldquo;Yes&amp;rdquo;— and burst into a storm of weeping.
 &amp;ldquo;What?&amp;rdquo; he asked.
 &amp;ldquo;I don&amp;rsquo;t know,&amp;rdquo; she wept in despair.
 &amp;ldquo;You needn&amp;rsquo;t be afraid of telling me, Sola dear. Maybe I can get it for you when I grow up.&amp;rdquo;
 &amp;ldquo;You wouldn&amp;rsquo;t understand. You&amp;rsquo;re so little. No one understands. I don&amp;rsquo;t even understand it myself—day and night.</description>
-            <content type="html"><![CDATA[<p><em>&ldquo;Is there something you want badly?&rdquo; he asked.</em></p>
-
-<p><em>And she replied almost greedily, gasping for breath: &ldquo;Yes&rdquo;— and burst into a storm of weeping.</em></p>
-
-<p><em>&ldquo;What?&rdquo; he asked.</em></p>
-
-<p><em>&ldquo;I don&rsquo;t know,&rdquo; she wept in despair.</em></p>
-
-<p><em>&ldquo;You needn&rsquo;t be afraid of telling me, Sola dear. Maybe I can get it for you when I grow up.&rdquo;</em></p>
-
-<p><em>&ldquo;You wouldn&rsquo;t understand. You&rsquo;re so little. No one understands. I don&rsquo;t even understand it myself—day and night.&rdquo;</em></p>
-
-<p><em>&ldquo;Is it because of the way you&rsquo;re made?&rdquo; he asked, full of sympathy and conscious that the discussion was verging now upon the most intimate secrets of the human body, which it is otherwise customary never to mention — possibly it was wrong of him, but the words had slipped his tongue before he realized.</em></p>
-
-<p><em>&ldquo;Yes,&rdquo; she sighed after a little reflection, disconsolately.</em></p>
-
-<p><em>&ldquo;It doesn&rsquo;t matter, Sola dear,&rdquo; he whispered then, and patted her cheek, determined to console her. &ldquo;There&rsquo;s no need to find out. I won&rsquo;t tell anyone. I shall ask Gvendur not to tell anyone.&rdquo;</em></p>
-
-<p><em>&ldquo;So you know, then?&rdquo; she asked, taking the cloth away from her eyes and looking him straight in the eyes &ldquo;— you know?&rdquo;</em></p>
-
-<p><em>&ldquo;No, Sola dear, I know nothing. I&rsquo;ve never had a look; it doesn&rsquo;t matter. And anyway nobody can help it. And when I&rsquo;m a big man, maybe I&rsquo;ll build a house in another country and then you can come and live with me and eat potatoes —&rdquo;</em></p>
-
-<p><em>&ldquo;Potatoes? What do I want with potatoes?&rdquo;</em></p>
-
-<p><em>&ldquo;Like it says in the Bible stories,&rdquo; he explained.</em></p>
-
-<p><em>&ldquo;There aren&rsquo;t any potatoes in the Bible stories.&rdquo;</em></p>
-
-<p><em>&ldquo;I mean what the woman ate in the Bible stories,&rdquo; he said.</em></p>
-
-<p><em>&ldquo;I don&rsquo;t want anything in the Bible stories,&rdquo; she said, gazing into space with tear-swollen eyes. &ldquo;God is an enemy of the soul.&rdquo;</em></p>
-
-<p><em>Then suddenly he asked: &ldquo;What did you wish for in the winter, Sola, when the teacher gave us all a wish?&rdquo;</em></p>
-
-<p><em>First she looked at him searchingly, and the squint in her eyes seemed more pronounced than ever, because of her weeping; then her lids fell and she began uprooting grass from the sward. &ldquo;You mustn&rsquo;t tell anyone,&rdquo; she said.</em></p>
-
-<p><em>&ldquo;No, I shall never tell anyone. What was it, then?&rdquo;</em></p>
-
-<p><em>&ldquo;It was love,&rdquo; she said, and then once more her weeping burst its bonds, and again and again she repeated from the midst of her sobbing: &ldquo;Love, love, love.&rdquo;</em></p>
-
-<p><em>&ldquo;How do you mean?&rdquo; he asked.</em></p>
-
-<p><em>She threw herself in a heap on the ground again, her shoulders shaking with sobs as they had done when he came up to her a few moments ago, and she wailed:</em></p>
-
-<p><em>&ldquo;I wish I could die. Die. Die.&rdquo;</em></p>
-
-<p><em>He did not know what to say in the face of such sorrow. He sat in silence by his sister&rsquo;s side in the spring verdure, which was too young; and the hidden strings in his breast begin to quiver, and to sound.</em></p>
-
-<p><em>This was the first time he had ever looked into the labyrinth of the human soul. He was very far from understanding what he saw. But what was of more value, he felt and suffered with her. In years that were yet to come he relieved this memory in song, in the most beautiful song the world has known. For understanding the soul&rsquo;s defencelessness, of the conflict between the two poles, is not the source of the greatest song. The source of the greatest song is sympathy. Sympathy with Asta Sollilja on earth.</em></p>
-
-<p><strong>— Independent People</strong></p>
-
-<p><img src="/img/19.3-tent.jpg" alt="wallowa-oregon" /></p>
-
-<p>As I drove south through the storm, the lights of Taos flickered in and out on the horizon. The snow coated the road, and driving was slow. The jeep had turned off, and I was alone. It was the hour of reflection. There was nothing to do but drive slowly, watching the road, careful with traction, looking for the edges so as not to get stuck in my little four door sedan. It lent a measure of tension to the reflections that passed through my mind.</p>
-
-<p>It&rsquo;s easy to go along and think: I understand this or that. Because the available material to work with, the few facts at hand, may create what looks like a full picture. The fact is, though, without knowing the full story of something, it&rsquo;s impossible to know the complete truth. And stories can change, depending on moods, who is telling them, what is remembered and forgotten. So what is this reality we live in after all?</p>
-
-<p>Who am I, and what am I doing? I thought I had put these kinds of questions to rest a long time ago. But now, in my thirtieth year, I found that once again they came up, again and again. This nagging idea, that the story of my life wasn&rsquo;t the point of it all, had never gone anywhere, I had never answered it. If anything, it had gone deeper, and now, at age thirty, when &ldquo;something was supposed to have happened,&rdquo; some career, some knowledge of the future, some success—absolutely nothing had. Even the goal I had set out to achieve four years before, which seemed reasonable to me at the time: to find a place to call home, hadn&rsquo;t been achieved. The only thing I felt I had learned was that there was never a final answer to anything.</p>
-
-<p>In the past my answer has been &ldquo;my art&rdquo; to the question of &ldquo;who are you.&rdquo; But as time has gone on, and my ideas of what it means to be successful have changed, and more questions have come up about the function and worth of art, and where it is useful, and who wants it, I began to doubt that. Maybe it was just a fanciful interpretation of life arisen from an easy time in my twenties. Of course people should produce beauty. Looking at the world closely, how could one not? What I had really come down to was this: did my life&rsquo;s work matter to anyone else? For so long I had studied and absorbed the world, books, films, recipes, experiences. And in the back of my mind I had this idea of a reservoir of experience, building up to a shining fullness, and from that deep, bountiful place I could draw things, write things, photograph things, say things, cook things that would somehow contribute to the world around me. But in my thirtieth year, I found the world more broken than ever. The ways my friends communicated dominated by platforms engineered to be addictive. People&rsquo;s attention spans shorter, and anxieties higher. City living incredibly stressful and expensive. Rural living lonely and isolating. The art, publishing, and photography worlds run by money, with frail offshoots of goodness. People&rsquo;s egos getting in the way of real work. But I refused, all along, to give up the kernel question, the question from which it all sprang from for me: &ldquo;What really matters?&rdquo;</p>
-
-<p>But who am I to answer such a thing, even just for myself? And trying to answer it for others? Laughable.</p>
-
-<p>At a certain point in this quest, photography and Instagram failed me. And then words, in the way I wrote them, failed me. But, just over a year ago, I began writing about all of this anyway. I wanted to make it congeal, to have some solution from it, to understand it. So I wrote, in the night after working during the day, on a farm on an island in Maine. The writing saved my life, and gave me hope, as the time on that island was amongst the most difficult so far in my life.</p>
-
-<p>The writing came out as poems, instead of prose. It broke down into lines of simplistic sentences, more like short stories than anything. Over the last year I wrote almost 200 pages of this kind of writing, which I titled &ldquo;A Body Of Water.&rdquo; Pretty much no one, besides one or two people, have seen or heard from that work. In the midst of writing it, I realized that to some degree my questions had been answered, in that there was no answer to them. I would just have to go along and find out. Experience would offer me what I was looking for, and then again it may never.</p>
-
-<p>It&rsquo;s strange how the idea of quitting an attempt to understand something can, to me, seem almost as absurd as ever answering the question itself. And I guess that&rsquo;s where I leave it.</p>
-
-<hr />
-
-<p>As I slid into town the snow thickened, falling like flour under the orange streetlights on Paseo del Pueblo Sur. Cars had gone off the road, I counted six. The hill past the plaza was sloppy, and I turned into the curb to prevent sliding into an intersection. Everyone else was driving around gingerly, the whole world coated in pure, beautiful new snow.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>A Story About A Meditation Retreat, #2</title>
-            <link>https://grassjournal.co/meditation-02/</link>
-            <pubDate>Sat, 02 Mar 2019 08:02:30 +0000</pubDate>
-            
-            <guid>https://grassjournal.co/meditation-02/</guid>
-            <description>After leaving the retreat, I headed west and then south, across and then down the wide valley. There is only one highway bisecting the valley, mountains bordering the east, and sagelands expanding to the west. At the base of the mountains lie a huge series of pale dunes, heaped up sand and dust accumulated there over millennia, blown there by the wind.
+    </item>
+    
+    <item>
+      <title>A Story About A Meditation Retreat, #2</title>
+      <link>https://grassjournal.co/meditation-02/</link>
+      <pubDate>Sat, 02 Mar 2019 08:02:30 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/meditation-02/</guid>
+      <description>After leaving the retreat, I headed west and then south, across and then down the wide valley. There is only one highway bisecting the valley, mountains bordering the east, and sagelands expanding to the west. At the base of the mountains lie a huge series of pale dunes, heaped up sand and dust accumulated there over millennia, blown there by the wind.
 Snow began to fall and then it was dark.</description>
-            <content type="html"><![CDATA[<p>After leaving the retreat, I headed west and then south, across and then down the wide valley. There is only one highway bisecting the valley, mountains bordering the east, and sagelands expanding to the west. At the base of the mountains lie a huge series of pale dunes, heaped up sand and dust accumulated there over millennia, blown there by the wind.</p>
-
-<p>Snow began to fall and then it was dark. Snow formed drifts the road, and stuck to the cold asphalt. I drove slowly, behind a jeep with their brights on, passing only one or two people as we crossed the state border.</p>
-
-<p>The imaginary world that spread out beyond the headlights was full of my own thoughts, projections of what might be there. A massive, flat topped mesa? Or the Cañon de Rio Grande, where the land suddenly breaks off, space opens up, and a thread thread of green-blue runs at the bottom? Sagebrush, certainly, for miles and miles: the infinite void of sagelands that spread, almost unbroken, from here in New Mexico to southern Canada.</p>
-
-<p>As I drove I thought more about the retreat. I had decided I would not go to another in that tradition. I had gone because I’d never been to something like it. It was hard to know what a retreat was, and how I felt about it, before I went. To me, it felt as though a sacred tradition and culture was being sold, but I wrestled with these thoughts for weeks and even months afterwards. Was it just my own anti-establishment mindset? Or was I seeing through falsity and appropriation?</p>
-
-<p>While at the retreat, I had taken one morning off to go into the mountains. There was a stream flowing down, winding through aspens and cottonwoods. Ice in the stream, a little snow here and there. As I walked a dog appeared out of the trees. Seeing me she stopped, and looked expectantly. I said the magical words: “do you want to go?” And soon she was racing ahead, looking back every now and then to make sure I was still following.</p>
-
-<p>She led me higher and higher, back and forth across the icy stream, across roads, always looking back and waiting for me—all the way to the base of the mountains. She stopped for a drink of water, gingerly stepping on clear ice and breaking through, wetting her paws. It was strange, to meet a new friend like this, that needed no words or even a common species to experience something together. She was self-composed, she knew where she was, and where we were going. I could have walked as far as she wanted, up into the mountains, following the stream up to a lake. But we had been walking for an hour, and I knew I needed to head back. As I turned away from the path, which had began to slant upward and leave the trees behind, I wondered how far into the mountains, on this narrow path, that this simple, honest dog would have led me.</p>
-
-<p>When I arrived back at the car, I noticed that she had followed me all the way back. She stood at the edge of the trees, looking towards me, but not coming any closer. She had a collar, and a home—she didn’t really “need” me. But like anyone, I guess she had found walking with someone more enjoyable than going around alone. And I guess this is what I needed too—companionship, love, and someone to look for me and to look for, as we go along this old trail together.</p>
-
-<p><img src="/img/19.3-dog.jpg" alt="19.3-dog" /></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>A Story About a Meditation Retreat, #1</title>
-            <link>https://grassjournal.co/meditation-01/</link>
-            <pubDate>Fri, 01 Mar 2019 08:02:30 +0000</pubDate>
-            
-            <guid>https://grassjournal.co/meditation-01/</guid>
-            <description>The big mountains rose quickly from the flat piñon plain below. Massive, snow-capped mountains, and a sixty mile wide valley broke the scale of distance I was used to. And the weird piñons, with their twisted, old trunks, low tops, many branches: more like oaks than pine trees; held a strange presence. The plain itself savanna-like, with low grass and sagebrush, antelope, and slow-moving mule deer, who I would see in the mornings along the dry watercourses, under black cottonwoods.</description>
-            <content type="html"><![CDATA[<p>The big mountains rose quickly from the flat piñon plain below. Massive, snow-capped mountains, and a sixty mile wide valley broke the scale of distance I was used to. And the weird piñons, with their twisted, old trunks, low tops, many branches: more like oaks than pine trees; held a strange presence. The plain itself savanna-like, with low grass and sagebrush, antelope, and slow-moving mule deer, who I would see in the mornings along the dry watercourses, under black cottonwoods.</p>
-
-<p>I had driven north from Taos, through the wide valley to attend a meditation retreat in the Tibetan Bön tradition, an old tradition mixing Tibetan cultural practices and Buddhism. The retreat cost around $300 for a few days sleeping in a house and a few days sitting in a big circular room, listening to a rinpoche (lit. precious one) talk about Dzogchen, a type of meditation that involves relaxation and a unique lack of effort.</p>
-
-<p>When I arrived, the first thing I noted was the number of new-model cars parked for the retreat. The majority were under five years old. A woman immediately walked up to me and said “are we supposed to park here? I’m gonna move my car. I think we’re supposed to park over there. I don’t think we can park here. I don’t know where.” She gestured vaguely towards a road running into the vast expanse of sagebrush. I shrugged and just kept walking.</p>
-
-<p>At the entrance I was confronted by two people checking lists for names, other people milling about, a variety of scarves, shawls, baggy clothes, hiking boots, and Patagonia jackets piled in corners. The light came in precisely, very clearly, through floor to ceiling windows. It was like the light always is in the high mountains, acute and intense. We were at around 8,000 feet. Outside the mountains rose to over fourteen.</p>
-
-<p>As I settled down on a meditation cushion in the middle of the circular conference room, a man with an unplaceable accent sat next to me. He grew up in Israel, and was Jewish. “Do you practice?” I asked. No, not really, he said. He comes to these things once or twice a year. He’s a massage therapist. He asked me what I did. I said I wandered around and wrote, making money however I could. He said I looked like a professor, but that I should give it a few years.</p>
-
-<p>As we sat for the beginning, he leaned over from time to time to let me know what was going on. We did tsa-lung practice, a type of energetic breath and body work made to be done seated that “opens chakras.” Having never been to a retreat, but practicing meditation for about ten years alone, I found it strange to be in a room of around a hundred people, all saying the Sanksrit syllable “Ah” and imagining white light entering our bodies. Everyone else was ok with it.</p>
-
-<p>As the first morning progressed, I was struck by the humor and ease of the rinpoche. He said things like “just leave it as it is,” and “just relax,” and also “you have reflected enough!” He took questions, and carefully avoided going into people’s personal experience. He was skilled at answering questions.</p>
-
-<p>On the second day, I put up my hand and, while asking a question, made a joke. Several people laughed, as they had at many of the jokes he made. But he had an air of irritation, and as I continued my question, he said “what, is this funny or something?” I got the feeling that he was the one who could make jokes, make people laugh. Others were not allowed that liberty.</p>
-
-<p>On the third and final day, we went outside for a puja. I had seen such things on documentaries, notably The Wheel of Time by Werner Herzog, where a massive hill of incense, juniper, pine wood, prayer flags, and other offerings are piled and set fire to. For our puja we had one of those cast braziers you might see at a suburban home, with a rusty metal grate. Inside a fire of piñon was made, and I was tasked with placing the crumbling, burning incense around the mesh. Rinpoche read a lot of Tibetan and everyone stood around silently, as the smoke billowed feebly from the fire, smelling like nothing really. We each took a handful of barley flour and threw it into the air, which I had also seen. In the video of the Tibetan people at the base of the Himalayas, this scene had the cameraman wading into throngs, people screaming and yelping, bells crashing, and smoke overwhelming the video, turning the screen opaque. Glimpses of weathered brown faces flitted across the screen, heavy woolen robes tied at the waist, prayer wheels, malas, lung-ta billowing, and smoke, smoke, smoke. But around me I saw the pale faced people, in nylon jackets, blankly talking and looking bored, throwing the barley when told to, laughing when queued, being silent when not, below snowy mountains that were not dissimilar to the Himalayas.</p>
-
-<p>As I walked away, a tall white guy with long dreads came up to me. His name was Juniper, and he was from this area. He said: “we’re trying to start a little community here. I have some land. It’s an AirBnB. Next time you come through, let me know. You can stay at our AirBnB.”</p>
-
-<p>I headed to my car, and drove back to the newly built retreat house, to stay one last night. The house looked like it had been airlifted from a subdivision outside Omaha, Nebraska, except it was on an incredibly steep hillside, surrounded by piñons, below the snow-covered mountains. There were new washer-dryer front loading units, a giant island, new fridge, dimmable lighting, soft-closing cabinets, shiny hardwood floors. Everything inside was clean, white, new, unmarked, pure. And very, very expensive.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Grass</title>
-            <link>https://grassjournal.co/new-grass/</link>
-            <pubDate>Fri, 01 Feb 2019 08:03:32 -0600</pubDate>
-            
-            <guid>https://grassjournal.co/new-grass/</guid>
-            <description>The spaces that aren’t worth anything. Where grass comes up between broken cement slabs.
+    </item>
+    
+    <item>
+      <title>A Story About a Meditation Retreat, #1</title>
+      <link>https://grassjournal.co/meditation-01/</link>
+      <pubDate>Fri, 01 Mar 2019 08:02:30 +0000</pubDate>
+      
+      <guid>https://grassjournal.co/meditation-01/</guid>
+      <description>The big mountains rose quickly from the flat piñon plain below. Massive, snow-capped mountains, and a sixty mile wide valley broke the scale of distance I was used to. And the weird piñons, with their twisted, old trunks, low tops, many branches: more like oaks than pine trees; held a strange presence. The plain itself savanna-like, with low grass and sagebrush, antelope, and slow-moving mule deer, who I would see in the mornings along the dry watercourses, under black cottonwoods.</description>
+    </item>
+    
+    <item>
+      <title>Grass</title>
+      <link>https://grassjournal.co/new-grass/</link>
+      <pubDate>Fri, 01 Feb 2019 08:03:32 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/new-grass/</guid>
+      <description>The spaces that aren’t worth anything. Where grass comes up between broken cement slabs.
 The quiet places that no one goes.
 Places that feel like they are yours, but you know they really belong to no one, and that’s why they are special.
 Thoughts that many think, but don’t know how to talk about them.
@@ -1108,41 +376,7 @@ Put-off ideas, made unimportant because they are frightening to confront.
 Humble things.
 .
 We are surrounded by grass.</description>
-            <content type="html"><![CDATA[<p>The spaces that aren’t worth anything. Where grass comes up between broken cement slabs.</p>
-
-<p>The quiet places that no one goes.</p>
-
-<p>Places that feel like they are yours, but you know they really belong to no one, and that’s why they are special.</p>
-
-<p>Thoughts that many think, but don’t know how to talk about them.</p>
-
-<p>Put-off ideas, made unimportant because they are frightening to confront.</p>
-
-<p>Humble things.</p>
-
-<p>.</p>
-
-<p>We are surrounded by grass. It comes up in many places.</p>
-
-<p>Some cut it flat, then water it so it grows again. Some tear it out.</p>
-
-<p>Some let it grow until the city leaves a notice on their door.</p>
-
-<p>Others make grass into gardens.</p>
-
-<p>Some bale and sell it.</p>
-
-<p>But much of grass is unnoticed. Special in that way, grass never asks for attention.</p>
-
-<p>.</p>
-
-<p>I wish to.. make an art of noticing.</p>
-
-<p>Noticing grass. You know what I mean</p>
-
-<p>By grass now</p>
-]]></content>
-        </item>
-        
-    </channel>
+    </item>
+    
+  </channel>
 </rss>

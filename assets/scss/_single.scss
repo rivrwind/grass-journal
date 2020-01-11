@@ -1,11 +1,10 @@
 .post {
   width: 100%;
   max-width: 800px;
-  text-align: left;
+  text-align: justify;
+  text-justify: auto;
   padding: 20px;
   margin: 20px auto;
-
-
 
   @media #{$media-size-tablet} {
     max-width: 600px;
@@ -149,12 +148,13 @@
 .button {
   position: relative;
   display: inline-flex;
+  margin: 10px;
   align-items: center;
   justify-content: center;
   background: $light-background-secondary;
   font-size: 1rem;
   font-weight: 600;
-  border-radius: 8px;
+  border-radius: 4px;
   max-width: 40%;
   padding: 0;
   cursor: pointer;
@@ -190,4 +190,28 @@
   &.previous .button__icon {
     margin-right: 8px;
   }
+
+}
+
+/* Newsletter signup styling */
+input:not([type=submit]):not([type=file]) {
+   padding: 10px;
+   border-radius: 10px;
+   margin: 0 0 0 10px;
+   border: 1px solid cornsilk;
+}
+
+input[type=submit]{
+  background: $light-background-secondary;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+input[type=submit]:hover{
+  background: salmon;
+  opacity: .8;
 }
