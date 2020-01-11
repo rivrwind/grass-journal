@@ -78,9 +78,9 @@ defaultTheme = "light"
 # And you can even create generic menu
 [menu]
   [[menu.main]]
-    identifier = "podcast"
-    name       = "Podcast"
-    url        = "/podcast"
+    identifier = "bodyofwater"
+    name       = "A Body of Water"
+    url        = "/bodyofwater"
     weight     = "2"
   [[menu.main]]
     identifier = "who"
