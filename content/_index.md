@@ -18,4 +18,4 @@ type: "homepage"
 A Weekly Newsletter - long walks and hikes, photos,   
 musings on reality, poems, tea, & more
 
-<form style="padding:3px;text-align:center;" action="https://tinyletter.com/grass-journal" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/grass-journal', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Email</label><input type="text" style="width:140px" name="email" id="tlemail" /><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
+{{< email >}}
