@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://grassjournal.co/kinnickinnic/</loc>
-    <lastmod>2020-03-21T12:07:41-06:00</lastmod>
+    <loc>https://grassjournal.co/dishes/</loc>
+    <lastmod>2020-03-31T07:26:44-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://grassjournal.co/posts/</loc>
+    <lastmod>2020-03-31T07:26:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grassjournal.co/kinnickinnic/</loc>
     <lastmod>2020-03-21T12:07:41-06:00</lastmod>
   </url>
   
