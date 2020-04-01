@@ -10,10 +10,9 @@ draft: false
 &nbsp;
 &nbsp;
 
-<center>
-# Grass Journal is...
+# WE ARE ALL A PART
 
-...a space of refreshing slowness.
+Grass journal is a space of refreshing slowness.
 
 A cool oasis of the internet.
 
@@ -41,13 +40,11 @@ the grass greens, grows
 
 by itself.
 
-</center>
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-<center>
-## [View All posts ⇾](/posts)
+
+# [View All posts ⇾](/posts)
 ### [Subscribe](/subscribe)
-</center>

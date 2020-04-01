@@ -14,8 +14,7 @@ type: "homepage"
 ---
 <br />
 
-### Subscribe to Grass Newsletter
-A Weekly Newsletter - long walks and hikes, photos,   
-musings on reality, poems, tea, & more
+### Subscribe to Grass Newsletter  
+Stay updated on what is posted here!
 
 {{< email >}}

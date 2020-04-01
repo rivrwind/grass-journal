@@ -1,7 +1,7 @@
 ---
-title: "Dishes"
+title: "Corona Journal - Dishes"
 subtitle: ""
-slug: ""
+slug: "dishes"
 author: "Hudson Gardner"
 date: "2020-03-31T07:26:44-06:00"
 draft: false
