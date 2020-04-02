@@ -15,20 +15,19 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",  Helvetica, Arial, sans-serif;
-  font-size: 1.1rem;
-  line-height: 1.8;
-  letter-spacing: .02em;
+  font-size: 1rem;
+  line-height: 1.54;
   background-color: $light-background;
   color: $light-color;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl";
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: 100%;
+
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  text-align: justify !important;
-  text-justify: auto;
 
   @media #{$media-size-phone} {
     font-size: 1rem;
@@ -40,15 +39,10 @@ body {
   }
 }
 
-p{
-  orphans: 3;
-  widows: 3;
-}
-
 h1, h2, h3, h4, h5, h6 {
+  display: flex;
   align-items: center;
   line-height: 1.3;
-  font-family: 'Karla', Helvetica, sans-serif;
 }
 
 h1 {
@@ -66,6 +60,7 @@ h3 {
 h4 {
   font-size: 1.125rem;
 }
+
 @media #{$media-size-phone} {
   h1 {
     font-size: 2rem;
@@ -84,11 +79,13 @@ h4 {
   }
 }
 
-img {
-  display: flex;
-  max-width: 100%;
-  border-radius: 5px;
+a {
+  color: inherit;
+}
 
+img {
+  display: block;
+  max-width: 100%;
 
   &.left {
     margin-right: auto;
@@ -156,50 +153,48 @@ code {
 }
 
 pre {
-  margin: 0;
-  padding: 0;
-  font-family: 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",  Helvetica, Arial, sans-serif;
-  font-size: 1.1rem;
-  line-height: 1.8;
-  letter-spacing: .02em;
-  background-color: $light-background;
-  color: $light-color;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl";
-  -webkit-overflow-scrolling: touch;
-  -webkit-text-size-adjust: 100%;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+  background: #212020;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: .95rem;
+  overflow: auto;
 
   @media #{$media-size-phone} {
-    font-size: 1rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
   }
 
-  &.dark-theme {
-    background-color: $dark-background;
-    color: $dark-color;
+  code {
+    background: none !important;
+    color: #ccc;
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+
+    .dark-theme & {
+      color: inherit;
+    }
   }
 }
 
 blockquote {
-  border-left: 3px solid;
-  margin-left: 50px;
+  border-left: 5px solid;
+  margin: 40px;
   padding: 10px 20px;
-  text-align: left;
 
   @media #{$media-size-phone} {
     margin: 10px;
     padding: 10px;
   }
 
-/*  &:before {
-    content: '"';
-    font-family: Georgia, serif !important;
+  &:before {
+    content: '”';
+    font-family: Georgia, serif;
     font-size: 3.875rem;
     position: absolute;
-  }*/
+    left: -40px;
+    top: -20px;
+  }
 
   p:first-of-type {
     margin-top: 0;
@@ -211,9 +206,8 @@ blockquote {
 }
 
 ul, ol {
-  margin: 0 0 0 30px;
+  margin-left: 40px;
   padding: 0;
-  list-style: circle;
 
   @media #{$media-size-phone} {
     margin-left: 20px;
@@ -307,72 +301,34 @@ hr {
 	z-index: 100000;
 }
 
-/* Allow floating of images by adding #variable to markdown*/
-img[src$='#center']
-{
-    display: block;
-    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
-                            whatever floats your boat, but keep the
-                            horizontal 'auto' for this to work */
-    /* whatever else styles you fancy here */
-}
-
-img[src$='#floatleft']
-{
-    float:left;
-    margin: 0.7rem;      /* this margin is totally up to you */
-    /* whatever else styles you fancy here */
-}
-
-img[src$='#floatright']
-{
-    float:right;
-    margin: 0.7rem;      /* this margin is totally up to you */
-    /* whatever else styles you fancy here */
-}
-
-li a{
-  border-bottom: none !important;
-}
-
-a{
-  color: #2f2f2f;
-  text-decoration: none;
-  border-bottom: 4px solid rgb(232, 213, 154) !important;
-  transition: 0.3s;
-}
-
-.dark-theme a{
-  color: $dark-color;
-}
-
-a:hover{
-  color: salmon;
-  text-decoration: none !important;
-}
-
-.dark-theme a:hover{
-  color: rgb(228, 183, 151);
-}
-
-.header a{
-  border-bottom: 0px !important;
-  font-family: "Inter UI";
-}
-
-h1#underline{
-  text-decoration: underline;
-  text-decoration-color: rgb(232, 213, 154);
-}
-
-ul#post{
-  list-style: none;
-  margin: 0px !important;
-  display: inline-block;
-  font-size: .8rem;
-  @include dimmed;
-}
-
-.footer a{
-  border-bottom: none !important;
-}
+// #home-center {
+//   display: flex;
+//   flex-grow: 1;
+//   flex-direction: column;
+//   justify-content: center;
+// }
+//
+// #home-title {
+//   margin: 0;
+//   text-align: center;
+// }
+//
+// #home-subtitle {
+//   margin-top: 0;
+//   margin-bottom: 1.5em;
+//   text-align: center;
+//   line-height: normal;
+//   font-size: .7em;
+//   font-style: italic;
+//   opacity: .9;
+// }
+//
+// #home-social {
+//   font-size: 1.4em;
+//   text-align: center;
+//   opacity: .8;
+//
+//   a {
+//     margin: 0 .2em;
+//   }
+// }

@@ -1,9 +1,9 @@
 ---
-title: "Corona Journal — We Are All A Part"
+title: "Corona Journal - We Are All A Part"
 subtitle: ""
 slug: ""
 author: "Hudson Gardner"
-date: "2020-03-31T21:01:58-06:00"
+date: "2020-04-01T07:26:44-06:00"
 draft: false
 toc: false
 comments: true

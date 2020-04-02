@@ -7,9 +7,12 @@ comments: false
 images:
 ---
 
-{{< center >}}
+
+
+
 
 ![Grass](/img/grass-small.png)
+
 
 ### Subscribe to Grass Newsletter
 A Weekly Newsletter - long walks and hikes, photos, musings on reality,  
