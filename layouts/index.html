@@ -29,6 +29,11 @@
           <h1 id="underline">{{ .Title | markdownify }}</h1>
           </a>
 
+          {{- if .Description }}
+          <h2>{{ .Description }}</h2>
+          {{- end }}
+
+
           <div class="post-info">
 
             <p>{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}</p>
