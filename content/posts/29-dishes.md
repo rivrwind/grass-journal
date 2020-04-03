@@ -8,7 +8,7 @@ draft: false
 toc: false
 comments: true
 cover: 2020-31-3.jpg
-tags:
+tags: ["Corona Journal"]
 typora-root-url: ../../content
 ---
 

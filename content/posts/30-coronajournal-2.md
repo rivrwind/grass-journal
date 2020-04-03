@@ -8,7 +8,7 @@ draft: false
 toc: false
 comments: true
 cover:
-tags:
+tags: ["Corona Journal"]
 typora-root-url: ../../content
 ---
 

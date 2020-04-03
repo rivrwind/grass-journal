@@ -9,7 +9,7 @@ draft: false
 
 &nbsp;
 &nbsp;
-
+{{% center %}}
 # WE ARE ALL A PART
 
 Grass journal is a space of refreshing slowness.
@@ -40,7 +40,6 @@ the grass greens, grows
 
 by itself.
 
-
 &nbsp;
 &nbsp;
 &nbsp;
@@ -48,3 +47,4 @@ by itself.
 
 # [View All posts ⇾](/posts)
 ### [Subscribe](/subscribe)
+{{% /center %}}

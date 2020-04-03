@@ -2,6 +2,7 @@
 
 <h1 id="underline">Grass Journal</h1>
 草本
+<em>Writing Daily About My Experience of the Coronavirus</em>
 
 <main class="posts">
 <hr />
@@ -36,7 +37,7 @@
 
           <div class="post-info">
 
-            <p>{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}</p>
+            <p>{{ dateFormat .Site.Params.dateformNumTime .Date.Local }} • {{ i18n "readingTime" .Page.ReadingTime }}</p>
 
           </div>
 
