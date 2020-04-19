@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>recipe on Grass Journal</title>
+    <title>Recipe on Grass Journal</title>
     <link>https://grassjournal.co/tags/recipe/</link>
-    <description>Recent content in recipe on Grass Journal</description>
+    <description>Recent content in Recipe on Grass Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 03:53:50 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 14:43:52 -0600</lastBuildDate>
     
 	<atom:link href="https://grassjournal.co/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coconut Korma</title>
+      <link>https://grassjournal.co/coconut-korma/</link>
+      <pubDate>Sat, 11 Apr 2020 14:43:52 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/coconut-korma/</guid>
+      <description>I have found this deceptively simple, vegan curry recipe to be just as delicious as one made with a masala. The individual flavors (garlic, ginger, cloves, cardamom) stand out more instead of getting lost in a cacophony of spices.
+INGREDIENTS • 6 cloves
+• 8 cardamom pods
+• 1 tbsp Kashmiri chile powder, OR Korean chile powder OR whatever you have (optional)
+• 1 head garlic, peeled and ground to a paste, or finely chopped (Tip: shake cloves in a jar for 2 minutes or until skins loosen)</description>
+    </item>
+    
+    <item>
+      <title>Shortbread Cookies</title>
+      <link>https://grassjournal.co/shortbread-cookies/</link>
+      <pubDate>Tue, 07 Apr 2020 07:41:58 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/shortbread-cookies/</guid>
+      <description>In the morning I make tea. And lately I have been accompanying it with a single shortbread cookie.
+For a long time I resisted making delicious cookies, because the problem of sugar. But I found if I make less delicious cookies, since they are less delicious, they don&amp;rsquo;t scratch the cookie itch very well, so I end up eating more of them—which pretty much defeats the purpose of making &amp;ldquo;more healthy&amp;rdquo; cookies.</description>
+    </item>
     
     <item>
       <title>Lemon Currant Scones Of Life</title>
@@ -23,6 +46,24 @@ DRY ⁘ 2 cups chosen flours (I used ¾ whole wheat, 1/4 buckwheat)
 ⁘ 1/2 tsp salt
 ⁘ 1 tsp baking powder ⁘ Currants to taste (soak awhile in hot water)
 ⁘ 1 stick cold butter (cut into dry ingredients)</description>
+    </item>
+    
+    <item>
+      <title>Late Dinner (Recipe)</title>
+      <link>https://grassjournal.co/late-dinner-recipe/</link>
+      <pubDate>Sun, 31 Mar 2019 20:45:19 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/late-dinner-recipe/</guid>
+      <description>Crackly-Toasted Late Dinner Rice 😱 Rice  2 cups short grain white rice Water, to cover rice to a depth of 1&amp;rdquo; (or consult your rice cooker instructions)  Toppings  2 tbsp butter 1 tbsp good soy sauce (san j, ohsawa) 2 cloves garlic, smashed &amp;amp; chopped 2 thinly sliced scallions  Method Put the rice and water in a pan, cover and bring to a boil. Once it has boiled, lower the heat and simmer for 15 min (or follow rice cooker instructions).</description>
+    </item>
+    
+    <item>
+      <title>Shiso Water</title>
+      <link>https://grassjournal.co/shiso-water/</link>
+      <pubDate>Tue, 12 Mar 2019 09:26:04 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/shiso-water/</guid>
+      <description>Shiso Water  1-2 Shiso Leaves 1” wide slice of lemon Boiling water  I like to make this water in the morning, before eating or drinking anything. Squeeze the lemon juice into a glass, add the leaves, and pour the water over. I’m not fully convinced about the idea of alkalizing the body through diet, however I feel like a sour drink early in the morning can relieve sugar cravings, and also improve digestion through stimulating the gallbladder.</description>
     </item>
     
   </channel>

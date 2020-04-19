@@ -8,7 +8,7 @@ toc: false
 comments: true
 cover: 19.03-shiso-water.jpg
 featured_image: /img/19.03-shiso-water.jpg
-tags: [recipe journal, tea]
+tags: ["Recipe"]
 typora-root-url: ../../content
 ---
 

@@ -8,7 +8,7 @@ toc: false
 comments: true
 cover:
 featured_image: /img/
-tags: [recipe]
+tags: ["Recipe"]
 typora-root-url: ../../content
 ---
 

@@ -8,7 +8,7 @@ draft: false
 toc: false
 comments: true
 cover: 19.03.31-Acequia.Snow.1.jpg
-tags: [recipe journal]
+tags: ["Recipe"]
 typora-root-url: ../../content
 ---
 
