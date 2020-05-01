@@ -86,22 +86,9 @@ h4 {
 
 img {
   display: flex;
-  max-width: 100%;
+  max-width: 140%;
   border-radius: 5px;
-
-
-  &.left {
-    margin-right: auto;
-  }
-
-  &.center {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  &.right {
-    margin-left: auto;
-  }
+  margin: 5% 0 5% -20%;
 }
 
 figure {
