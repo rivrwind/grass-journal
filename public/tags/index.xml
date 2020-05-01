@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Grass Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 10:18:46 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 07:11:10 -0600</lastBuildDate>
     
 	<atom:link href="https://grassjournal.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Corona Journal</title>
       <link>https://grassjournal.co/tags/corona-journal/</link>
-      <pubDate>Thu, 16 Apr 2020 10:18:46 -0600</pubDate>
+      <pubDate>Tue, 21 Apr 2020 07:11:10 -0600</pubDate>
       
       <guid>https://grassjournal.co/tags/corona-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiking</title>
+      <link>https://grassjournal.co/tags/hiking/</link>
+      <pubDate>Tue, 21 Apr 2020 07:11:10 -0600</pubDate>
+      
+      <guid>https://grassjournal.co/tags/hiking/</guid>
       <description></description>
     </item>
     
