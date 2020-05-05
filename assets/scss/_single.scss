@@ -46,9 +46,8 @@
 
   &-cover {
     border-radius: 8px;
-    margin: 40px -50px;
-    width: 860px;
-    max-width: 860px;
+    margin: 5% 0 5% -20%;
+    max-width: 140%;
 
     @media #{$media-size-tablet} {
       margin: 20px 0;
