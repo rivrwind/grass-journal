@@ -18,3 +18,9 @@ HUGO_VERSION = "0.68.3"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[redirects]
+from = "https://grassjournal.com"
+to = "https://grassjournal.substack.com"
+status = 301
+force = true
